@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+.Rhistory
+*.fasta
+*.gff3
+*.gb
+*.svg
+*.png
+temp.csv
+*.pkl
+*.gif
+*.pdb
+data/pdb_files/*
+data/K12_all_genes.pickle
+*ZDALLDORFZ*
