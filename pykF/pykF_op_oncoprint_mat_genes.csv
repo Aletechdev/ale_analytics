@@ -1,0 +1,5 @@
+,42C 3 120 1 1,42C 4 161 1 1,42C 5 125 1 1,42C 7 135 1 1,42C 10 153 1 1,GLU 10 320 1 1,SER 3 50 1 1,SSW_GLU_AC 7 90 0 3,SSW_GLU_AC 8 91 0 2,SSW_GLU_XYL 1 163 0 2,TOL_hexanoic_acid 2 50 1 1,TOL_isobutyric_acid 1 50 1 1,TOL_isobutyric_acid 1 50 2 1,TOL_isobutyric_acid 2 50 1 1,TOL_isobutyric_acid 3 50 1 1,TOL_isobutyric_acid 3 50 2 1,TOL_isobutyric_acid 4 50 1 1,TOL_isobutyric_acid 5 50 1 1,TOL_isobutyric_acid 6 50 1 1,TOL_isobutyric_acid 7 50 1 1,TOL_isobutyric_acid 8 50 1 1,TOL_putrescine 4 50 1 1,pyocyanin_supplemented_medium 2 19 2 1,pyocyanin_supplemented_medium 3 19 3 1,tpi 14 89 0 1,tpi 16 88 0 1,tpiHSA 3 71 1 1,tpiHSA 8 29 1 1,tpiHSA 8 34 1 1,tpiHSA 8 34 2 1,tpiHSA 10 76 1 1,tpiHSA 10 104 1 1,tpiPAE 15 36 1 1,tpiPAE 16 95 1 1,tpiPAE 16 36 2 1,tpiPAE 24 31 1 1,wt 1 1 2 1
+fumD/pykF,,,,,,,,,,,,,,MOB,,,,,,,,,,,,,,,,,SNP,,,,,,SNP
+pykF,,SNP,SNP,SNP,SNP,,SNP,INS,SNP,SNP,SNP,MOB,SNP,,SNP,MOB,INS,SNP,INS,SNP,INS,SNP,SNP,SNP,MOB,SNP,SNP,SNP,SNP,SNP,,SNP,DEL,SNP,SNP,DEL,
+pykFp1,SNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pykFp,,,,,,DEL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
