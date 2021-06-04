@@ -1,0 +1,11 @@
+,GLU 10 320 1 1,GYD 1 280 0 1,GYD 2 182 0 1,GYD 2 182 1 1,GYD 3 176 0 1,GYD 4 195 0 1,GYD 5 216 0 1,GYD 6 187 1 1,GYD 7 106 0 1,GYD 7 106 1 1,GYD 8 104 1 1,GYD 9 105 1 1,GYD 10 106 0 1,GYD 11 109 0 1,GYD 11 109 1 1,GYD 12 114 0 1,GYD 13 69 0 1,GYD 13 69 1 1,GYD 14 68 0 1,GYD 14 68 1 1,GYD 15 71 0 1,GYD 15 71 1 1,GYD 16 70 0 1,GYD 17 70 0 1,GYD 18 70 0 1,GYD 18 70 1 1,GYD 19 34 0 1,GYD 20 33 1 1,GYD 20 33 0 1,GYD 21 39 1 1,GYD 21 39 0 1,GYD 22 44 0 1,GYD 22 44 1 1,GYD 23 41 1 1,GYD 24 42 0 1,GYD 25 36 0 1,GYD 26 25 0 1,GYD 27 34 1 1,GYD 28 34 0 1,GYD 29 31 1 1,MG1655-M9-NC_000913_3gb-stationary-37-m-tartrate2 2 88 1 1,PGI 2 50 1 1,PGI 4 50 1 1,PGI 5 50 1 1,PGI 7 50 1 1,PGI 8 50 1 1,PGI 10 50 1 1,SSW_GLU_GLY 4 165 0 1,SSW_GLU_GLY 5 160 0 1,SSW_GLU_GLY 6 162 0 1,SSW_GLU_XYL 1 163 2 1,SSW_GLY 1 45 1 1,SSW_GLY 2 45 1 1,TOL_hexamethylenediamine 4 50 3 1,pgi 7 97 0 1,pgi 9 3 0 1,pgi 11 4 0 1,pgiBME 14 22 1 1,pgiHSA 12 95 1 1,pgiPAE 12 16 1 1,pts 9 131 0 1,pts 9 131 1 1,pts 11 138 0 1,wt 1 1 1 1
+cyaA,,SNP,,,SNP,MOB,SNP,SNP,,,MOB,,,,,SNP,SNP,,CNV,,,,DEL,,DEL,,,,,SNP,SNP,,DEL,SNP,,SNP,DEL,SNP,DEL,SNP,SNP,,,,,SNP,,,,,SNP,,,,,DEL,MOB,SNP,DEL,,DEL,DEL,MOB,
+crr,,,SNP,,,,,,SNP,,,,,SNP,,,,,,,SNP,,,SNP,,,SNP,SNP,SNP,,,SNP,,,SNP,,,,,,,MOB,MOB,MOB,MOB,,MOB,,,,,,,,MOB,,,,,,,,,
+glpFKX TFBS,,,,,,,,,,,,SNP,,,,,,,,SNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ptsHp4,SNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ptsI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SNP,,,,
+ptsHp3,SNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+glpK,,SNP,,SNP,SNP,SNP,SNP,SNP,SNP,SNP,SNP,SNP,SNP,,SNP,SNP,,SNP,,SNP,,SNP,SNP,SNP,,SNP,,,,SNP,SNP,SNP,SNP,SNP,SNP,SNP,,SNP,,SNP,,,,,,,,SNP,SNP,SNP,,SNP,SNP,,,,,,,,,,,
+ptsHp5,SNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ptsHI-crr terminator,,,,,,,,,,,,DEL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+hemC/cyaA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SNP,,,,,,,,,,SNP
