@@ -1,0 +1,110 @@
+seqname,source,feature,start,end,score,strand,frame,attribute,9,color
+P0A6F3,UniProtKB,Chain,2,502,.,.,.,ID=PRO_0000059451;Note=Glycerol kinase,,white
+P0A6F3,UniProtKB,ATP binding site,14,16,.,.,.,Note=ATP,,#FFC125
+P0A6F3,UniProtKB,ATP binding site,412,416,.,.,.,Note=ATP,,#FFC125
+P0A6F3,UniProtKB,Substrate binding site,84,85,.,.,.,Note=Substrate binding,,#911EB4
+P0A6F3,UniProtKB,Allosteric FBP inhibitor binding site,234,236,.,.,.,Note=Allosteric FBP inhibitor binding,,#76EE00
+P0A6F3,UniProtKB,Substrate binding site,246,247,.,.,.,Note=Substrate binding,,#911EB4
+P0A6F3,UniProtKB,Crr and Zinc binding site,479,479,.,.,.,Note=Zinc%3B shared with EIIA-Glc,,#42D4F4
+P0A6F3,UniProtKB,Substrate binding site,14,14,.,.,.,"Note=Substrate;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00186,ECO:0000269|PubMed:17441732;Dbxref=PMID:17441732",,#911EB4
+P0A6F3,UniProtKB,ATP binding site,18,18,.,.,.,Note=ATP,,#FFC125
+P0A6F3,UniProtKB,Substrate binding site,136,136,.,.,.,"Note=Substrate;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_00186,ECO:0000269|PubMed:17441732;Dbxref=PMID:17441732",,#911EB4
+P0A6F3,UniProtKB,ATP binding site,268,268,.,.,.,Note=ATP,,#FFC125
+P0A6F3,UniProtKB,ATP binding site,311,311,.,.,.,Note=ATP%3B via carbonyl oxygen,,#FFC125
+P0A6F3,UniProtKB,ATP binding site,315,315,.,.,.,Note=ATP%3B via amide nitrogen,,#FFC125
+P0A6F3,UniProtKB,ATP binding site,330,330,.,.,.,Note=ATP,,#FFC125
+P0A6F3,UniProtKB,N6-malonyllysine site,233,233,.,.,.,Note=N6-malonyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21908771;Dbxref=PMID:21908771,,#2AB0C1
+P0A6F3,UniProtKB,Beta strand,6,12,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,14,22,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,24,26,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLA,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,28,35,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,41,44,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLA,,#8C8C8C
+P0A6F3,UniProtKB,Helix,50,68,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Helix,72,74,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,75,82,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,87,91,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Turn,92,94,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#f58231
+P0A6F3,UniProtKB,Beta strand,97,99,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,110,118,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Turn,119,121,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BU6,,#f58231
+P0A6F3,UniProtKB,Helix,122,129,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Helix,138,148,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,149,151,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLA,,#8C8C8C
+P0A6F3,UniProtKB,Helix,152,157,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Turn,158,160,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLL,,#f58231
+P0A6F3,UniProtKB,Beta strand,161,164,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,166,174,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Turn,175,177,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#f58231
+P0A6F3,UniProtKB,Beta strand,181,183,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,184,187,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,190,194,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Turn,195,198,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#f58231
+P0A6F3,UniProtKB,Helix,202,208,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Helix,212,214,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,217,219,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,221,228,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,231,235,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BU6,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,238,245,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,246,253,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,262,275,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,284,286,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,288,293,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Turn,295,297,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLC,,#f58231
+P0A6F3,UniProtKB,Beta strand,299,308,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,311,319,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,326,328,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,330,334,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,337,339,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Beta strand,344,346,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,348,350,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLL,,#937860
+P0A6F3,UniProtKB,Turn,354,356,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#f58231
+P0A6F3,UniProtKB,Beta strand,363,368,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,374,400,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,405,411,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,412,415,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Helix,417,427,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,429,435,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,439,451,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Beta strand,454,456,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,458,460,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+P0A6F3,UniProtKB,Turn,461,463,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLF,,#f58231
+P0A6F3,UniProtKB,Beta strand,467,471,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#8C8C8C
+P0A6F3,UniProtKB,Helix,477,494,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZW,,#937860
+,,Carbohydrate kinase N-terminal PFAM domain,6,253,,,,,,#B279A2
+,,Carbohydrate kinase C-terminal PFAM domain,262,451,,,,,,#439894
+,,GlpK subunit binding site,59,59,,,,,,#B33E52
+,,GlpK subunit binding site,63,63,,,,,,#B33E52
+,,GlpK subunit interface,32,35,,,,,,#4169E1
+,,GlpK subunit interface,51,52,,,,,,#4169E1
+,,GlpK subunit interface,54,56,,,,,,#4169E1
+,,GlpK subunit interface,58,60,,,,,,#4169E1
+,,GlpK subunit interface,62,63,,,,,,#4169E1
+,,GlpK subunit interface,66,67,,,,,,#4169E1
+,,GlpK subunit interface,69,69,,,,,,#4169E1
+,,GlpK subunit interface,73,73,,,,,,#4169E1
+,,GlpK subunit interface,94,94,,,,,,#4169E1
+,,GlpK subunit interface,96,96,,,,,,#4169E1
+,,GlpK subunit interface,173,173,,,,,,#4169E1
+,,GlpK subunit interface,229,236,,,,,,#4169E1
+,,GlpK subunit interface,322,322,,,,,,#4169E1
+,,GlpK subunit interface,326,326,,,,,,#4169E1
+,,Crr interface,39,42,,,,,,#FCAD74
+,,Crr interface,44,44,,,,,,#FCAD74
+,,Crr interface,46,47,,,,,,#FCAD74
+,,Crr interface,70,70,,,,,,#FCAD74
+,,Crr interface,72,73,,,,,,#FCAD74
+,,Crr interface,76,76,,,,,,#FCAD74
+,,Crr interface,79,79,,,,,,#FCAD74
+,,Crr interface,89,89,,,,,,#FCAD74
+,,Crr interface,91,91,,,,,,#FCAD74
+,,Crr interface,95,95,,,,,,#FCAD74
+,,Crr interface,97,98,,,,,,#FCAD74
+,,Crr interface,100,100,,,,,,#FCAD74
+,,Crr interface,110,110,,,,,,#FCAD74
+,,Crr interface,142,142,,,,,,#FCAD74
+,,Crr interface,338,339,,,,,,#FCAD74
+,,Crr interface,403,403,,,,,,#FCAD74
+,,Crr interface,405,405,,,,,,#FCAD74
+,,Crr interface,428,428,,,,,,#FCAD74
+,,Crr interface,430,430,,,,,,#FCAD74
+,,Crr interface,472,482,,,,,,#FCAD74
