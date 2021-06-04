@@ -1,0 +1,8 @@
+##gff-version 3
+##sequence-region P00936 1 848
+P00936	UniProtKB	Chain	1	848	.	.	.	ID=PRO_0000195669;Note=Adenylate cyclase	
+P00936	UniProtKB	Region	1	535	.	.	.	Note=Catalytic	
+P00936	UniProtKB	Region	541	848	.	.	.	Note=Regulatory	
+P00936	UniProtKB	Modified residue	609	609	.	.	.	Note=Phosphohistidine%3B by CRR;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P00936	UniProtKB	Sequence conflict	223	223	.	.	.	Note=V->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P00936	UniProtKB	Sequence conflict	223	223	.	.	.	Note=V->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

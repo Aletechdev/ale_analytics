@@ -1,0 +1,8 @@
+seqname,source,feature,start,end,score,strand,frame,attribute,9,color
+P00936,UniProtKB,Chain,1,848,.,.,.,ID=PRO_0000195669;Note=Adenylate cyclase,,white
+P00936,UniProtKB,Catalytic region,1,535,.,.,.,Note=Catalytic,,#CCB974
+P00936,UniProtKB,Regulatory region,541,848,.,.,.,Note=Regulatory,,#64B5CD
+P00936,UniProtKB,Phosphohistidine by Crr,609,609,.,.,.,Note=Phosphohistidine%3B by CRR;Ontology_term=ECO:0000255;evidence=ECO:0000255,,#55A868
+,,Nucleotidyltransferase PFAM domain,5,200,,,,,,#8172B3
+,,Adenylate cyclase class-I PFAM domain,228,825,,,,,,#DD8452
+,,G3P associated inhibition,800,848,,,,,,#4C72B0

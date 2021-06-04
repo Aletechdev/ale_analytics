@@ -1,0 +1,23 @@
+# mutfunc version 1.0 downloaded on 10/12/2020 00:44
+# Conservation table
+# Column descriptions: 
+#  1  chr: chromosome
+#  2  pos: genomic position
+#  3  ref: genomic reference base
+#  4  alt: genomic mutation base
+#  5  gene: gene identifier
+#  6  posaa: protein position
+#  7  refaa: reference amino acid
+#  8  altaa: mutated amino acid
+#  9  impact: is the mutation predicted to impact function? '1' if yes, '0' if no
+#  10 score: sift score, any mutation with a score below 0.05 is considered deleterious
+#  11 ic: information content at this position of the alignment (a high value indicates strong conservation, where the maximum value is 4.32)
+#  12 number_sequences: number of sequences in the alignment with a non-gapped amino acid at this position
+#  13 total_sequences: total number of sequences in the alignment
+chr	pos	ref	alt	gene	posaa	refaa	altaa	impact	score	ic	number_sequences	total_sequences
+-	-	-	-	P00936	665	R	S	1	0.0191542	2.78073	13	16
+-	-	-	-	P00936	414	D	Y	1	0.0	2.77994	16	16
+-	-	-	-	P00936	806	P	L	1	0.0	2.77003	12	16
+-	-	-	-	P00936	231	D	V	1	0.0	2.78386	15	16
+-	-	-	-	P00936	491	L	R	1	0.00193939	2.77994	16	16
+-	-	-	-	P00936	176	S	F	1	0.0	2.79167	14	16
