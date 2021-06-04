@@ -1,0 +1,89 @@
+seqname,source,feature,start,end,score,strand,frame,attribute,9,color
+P0AD61,UniProtKB,Chain,1,470,.,.,.,ID=PRO_0000112069;Note=Pyruvate kinase I,,white
+P0AD61,UniProtKB,ATP binding site,34,37,.,.,.,Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P14618,,#FFC125
+P0AD61,UniProtKB,Potassium binding site,34,34,.,.,.,Note=Potassium;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#76EE00
+P0AD61,UniProtKB,Potassium binding site,36,36,.,.,.,Note=Potassium;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#76EE00
+P0AD61,UniProtKB,Potassium binding site,66,66,.,.,.,Note=Potassium;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#76EE00
+P0AD61,UniProtKB,Potassium binding site,67,67,.,.,.,Note=Potassium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#76EE00
+P0AD61,UniProtKB,Magnesium binding site,222,222,.,.,.,Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#42d4f4
+P0AD61,UniProtKB,Magnesium binding site,246,246,.,.,.,Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#42d4f4
+P0AD61,UniProtKB,Substrate binding site,32,32,.,.,.,Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#911EB4
+P0AD61,UniProtKB,ATP binding site,73,73,.,.,.,Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P14618,,#FFC125
+P0AD61,UniProtKB,ATP binding site,156,156,.,.,.,Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P14618,,#FFC125
+P0AD61,UniProtKB,Substrate binding site,245,245,.,.,.,Note=Substrate%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#911EB4
+P0AD61,UniProtKB,Substrate binding site,246,246,.,.,.,Note=Substrate%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#911EB4
+P0AD61,UniProtKB,Substrate binding site,278,278,.,.,.,Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#911EB4
+P0AD61,UniProtKB,Transition state stabilizer,220,220,.,.,.,Note=Transition state stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250,,#4169E1
+P0AD61,UniProtKB,N6-acetyllysine site,76,76,.,.,.,Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18723842;Dbxref=PMID:18723842,,#FA8072
+P0AD61,UniProtKB,N6-acetyllysine site,319,319,.,.,.,Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18723842;Dbxref=PMID:18723842,,#FA8072
+P0AD61,UniProtKB,Beta strand,4,9,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,12,14,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Helix,17,26,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,28,34,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,40,57,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,62,66,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,72,74,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,78,80,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,83,85,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,90,95,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,105,109,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,113,116,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,122,125,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Turn,126,129,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#f58231
+P0AD61,UniProtKB,Beta strand,130,138,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,141,146,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,150,152,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,157,159,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,172,184,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,187,193,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,197,208,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Turn,209,211,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#f58231
+P0AD61,UniProtKB,Beta strand,216,221,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,224,228,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Helix,230,236,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,237,243,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,244,250,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Helix,253,270,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,273,277,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,278,281,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PKY,,#8C8C8C
+P0AD61,UniProtKB,Helix,282,285,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PKY,,#937860
+P0AD61,UniProtKB,Helix,292,304,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,307,311,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,313,316,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PKY,,#937860
+P0AD61,UniProtKB,Helix,322,336,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Helix,355,368,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,372,377,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,379,381,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,382,388,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,393,401,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,403,408,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Helix,409,411,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,415,419,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Helix,426,439,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#937860
+P0AD61,UniProtKB,Beta strand,441,443,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,448,453,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,455,457,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+P0AD61,UniProtKB,Beta strand,464,469,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E0T,,#8C8C8C
+,,Barrel domain,1,342,,,,,,#B279A2
+,,Alpha/beta domain,356,468,,,,,,#439894
+,,N6-acetyllysine site,13,13,,,,,,#FA8072
+,,N6-acetyllysine site,68,68,,,,,,#FA8072
+,,N6-acetyllysine site,145,145,,,,,,#FA8072
+,,N6-acetyllysine site,208,208,,,,,,#FA8072
+,,N6-acetyllysine site,286,286,,,,,,#FA8072
+,,N6-acetyllysine site,317,317,,,,,,#FA8072
+,,N6-acetyllysine site,389,389,,,,,,#FA8072
+,,N6-acetyllysine site,434,434,,,,,,#FA8072
+,,PykF subunit interface,354,354,,,,,,#88D27A
+,,PykF subunit interface,357,358,,,,,,#88D27A
+,,PykF subunit interface,360,360,,,,,,#88D27A
+,,PykF subunit interface,364,365,,,,,,#88D27A
+,,PykF subunit interface,368,369,,,,,,#88D27A
+,,PykF subunit interface,425,427,,,,,,#88D27A
+,,PykF subunit interface,430,431,,,,,,#88D27A
+,,PykF subunit interface,434,434,,,,,,#88D27A
+,,PykF subunit interface,448,448,,,,,,#88D27A
+,,PykF subunit interface,455,457,,,,,,#88D27A
+,,PykF subunit interface,463,469,,,,,,#88D27A
+,,PykF subunit interface,253,257,,,,,,#88D27A
+,,PykF subunit interface,291,297,,,,,,#88D27A
