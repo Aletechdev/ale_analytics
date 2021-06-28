@@ -10,8 +10,8 @@
 8,carbon source,D-arabinose,#525a5c
 9,carbon source,D-lyxose,#5c6669
 10,carbon source,m-tartrate,#667477
-11,carbon source,monomethyl succinate,#708084
-12,carbon source,glucose(4) or xylose(4),#7b8e93
+11,carbon source,glucose(4) or xylose(4),#708084
+12,carbon source,monomethyl succinate,#7b8e93
 13,carbon source,glucose(4) or glycerol(2.5),#859aa0
 14,carbon source,glucose(4) or acetate(4),#90a8ae
 15,carbon source,xylose(4),#91a9b1
@@ -59,12 +59,12 @@
 57,sulfur source,MgSO4(1mM),#e85e0d
 58,sulfur source,LB,#f07c32
 59,sulfur source,MgSO4(0.24),#f69b58
-60,supplement,PQ(0.8mM),#33393d
-61,supplement,propanediol,#343f47
-62,supplement,chloramphenicol(25),#344551
-63,supplement,gentamycin(0.03),#344b5b
-64,supplement,C6H5FeO7(0.00049) casamino(5) WT P. aeruginosa toxins,#345165
-65,supplement,isobutanol(8g/L),#35576f
+60,supplement,gentamycin(0.03),#33393d
+61,supplement,PQ(0.8mM),#343f47
+62,supplement,propanediol,#344551
+63,supplement,isobutanol(8g/L),#344b5b
+64,supplement,chloramphenicol(25),#345165
+65,supplement,C6H5FeO7(0.00049) casamino(5) WT P. aeruginosa toxins,#35576f
 66,supplement,C13H10N2O(0.168184),#355d79
 67,supplement,C6H5FeO7(0.00049) casamino(5) pvdJ KO P. aeruginosa toxins,#356384
 68,supplement,glycine(2mM) L-Serine Wolfe's vitamin solution trace elements(X1),#36698e
@@ -73,13 +73,13 @@
 71,supplement,doxycycline,#367bac
 72,supplement,trimethoprim,#3781b6
 73,supplement,chloramphenicol,#3787c0
-74,supplement,octanoic acid,#408cc3
-75,supplement,hexamethylenediamine,#4892c6
-76,supplement,hexanoic acid,#5097c8
-77,supplement,adipic acid,#589ccb
-78,supplement,putrescine,#61a1ce
-79,supplement,2 3-butanediol,#69a6d0
-80,supplement,glutaric acid,#71abd3
+74,supplement,hexamethylenediamine,#408cc3
+75,supplement,octanoic acid,#4892c6
+76,supplement,glutaric acid,#5097c8
+77,supplement,hexanoic acid,#589ccb
+78,supplement,adipic acid,#61a1ce
+79,supplement,putrescine,#69a6d0
+80,supplement,2 3-butanediol,#71abd3
 81,supplement,isobutyric acid,#7ab1d6
 82,supplement,n-butanol,#82b6d8
 83,supplement,coumaric acid,#8abbdb
