@@ -61,13 +61,15 @@ temperature_colors = c()
 uniq_conds = unique(temperature)
 cond_type = "temperature"
 for (x in uniq_conds) {
-  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ][,"color"]
+  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ]$"color"[1]
+  color = toString(color)
   temperature_colors = append(temperature_colors, color)
 }
 names(temperature_colors) = uniq_conds
 
 library(stringr)
-carbon_source_colors = c('#ededed', '#d1d1d1', '#adadad', '#828282', '#5c5c5c', '#2b2b2b')  # Don't want to use original clustermap colors
+# carbon_source_colors = c('#ededed', '#d1d1d1', '#adadad', '#828282', '#5c5c5c', '#2b2b2b')  # Don't want to use original clustermap colors
+carbon_source_colors = c('#ededed', '#d1d1d1', '#adadad', '#828282', '#5c5c5c')  # Don't want to use original clustermap colors
 uniq_conds = unique(carbon_source)
 uniq_conds= str_sort(uniq_conds)  # get the strains in ascending color order
 names(carbon_source_colors) = uniq_conds
@@ -79,7 +81,8 @@ uniq_conds = str_sort(uniq_conds)  # get the strains in ascending color order
 names(strain_colors) = uniq_conds
 
 library(stringr)
-supplement_colors = c('#c6dbef', '#6aaed6', '#2070b4')
+# supplement_colors = c('#c6dbef', '#6aaed6', '#2070b4')
+supplement_colors = c('#c6dbef')
 uniq_conds = unique(supplement)
 uniq_conds = str_sort(uniq_conds)  # get the strains in ascending color order
 names(supplement_colors) = uniq_conds
@@ -88,7 +91,8 @@ sulfur_source_colors = c()
 uniq_conds = unique(sulfur_source)
 cond_type = "sulfur source"
 for (x in uniq_conds) {
-  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ][,"color"]
+  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ]$"color"[1]
+  color = toString(color)
   sulfur_source_colors = append(sulfur_source_colors, color)
 }
 names(sulfur_source_colors) = uniq_conds
@@ -97,7 +101,8 @@ nitrogen_source_colors = c()
 uniq_conds = unique(nitrogen_source)
 cond_type = "nitrogen source"
 for (x in uniq_conds) {
-  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ][,"color"]
+  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ]$"color"[1]
+  color = toString(color)
   nitrogen_source_colors = append(nitrogen_source_colors, color)
 }
 names(nitrogen_source_colors) = uniq_conds
@@ -106,7 +111,8 @@ phosphorous_source_colors = c()
 uniq_conds = unique(phosphorous_source)
 cond_type = "phosphorous source"
 for (x in uniq_conds) {
-  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ][,"color"]
+  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ]$"color"[1]
+  color = toString(color)
   phosphorous_source_colors = append(phosphorous_source_colors, color)
 }
 names(phosphorous_source_colors) = uniq_conds
@@ -115,7 +121,8 @@ calcium_source_colors = c()
 uniq_conds = unique(calcium_source)
 cond_type = "calcium source"
 for (x in uniq_conds) {
-  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ][,"color"]
+  color = cond_color_mat[with(cond_color_mat, condition.category == cond_type & condition == x), ]$"color"[1]
+  color = toString(color)
   calcium_source_colors = append(calcium_source_colors, color)
 }
 names(calcium_source_colors) = uniq_conds
@@ -124,6 +131,16 @@ names(calcium_source_colors) = uniq_conds
 # Matplotlib Tab20 colormap used for experiment colors.
 # Getting colors of conditions from original condition clustermap for this
 ha = HeatmapAnnotation(
+  annotation_label = c(
+    "sulfur source",
+    "nitrogen source",
+    "phosphorous source",
+    "calcium source",
+    "temperature",
+    "carbon source",
+    "strain",
+    "supplement",
+    "study"),
   sulfur_source = sulfur_source,
   nitrogen_source = nitrogen_source,
   phosphorous_source = phosphorous_source,
@@ -158,16 +175,6 @@ ha = HeatmapAnnotation(
       "TOL_hexamethylenediamine"="#C49C94",
       "ptsHI-crrKO"="#C7C7C7")
     ),
-  annotation_label = c(
-    "sulfur source",
-    "nitrogen source source",
-    "phosphorous source",
-    "calcium source",
-    "temperature",
-    "carbon source",
-    "strain",
-    "supplement",
-    "study"),
   annotation_name_side = "left"
 )
 
