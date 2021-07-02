@@ -1,6 +1,5 @@
 AA position,mutation type,disrupt coding seq,disrupt func,disrupt struct,study,study color,mutation count,name,color
 11,SNP,0,0,0,m-tartrate2,#C5B0D5,1,SNP 11,#ABABAB
-111,SNP,0,0,0,SSW_GLU_XYL,#B34142,1,SNP 111,#ABABAB
 176,SNP,0,1,0,GYD,#AEC7E8,1,SNP 176,#ED7D31
 229,SNP,1,0,0,pgiBME,#F7B6D2,1,SNP 229,#CF000F
 231,SNP,0,1,0,GYD,#AEC7E8,1,SNP 231,#ED7D31

@@ -6,12 +6,12 @@ FUNC_DISRUPT_COLOR = "#ED7D31"
 STRUCT_DISRUPT_COLOR = "#A020F0"
 FUNC_AND_STRUCT_DISRUPT_COLOR = "#A52A2A"
 
-feats = read.csv(file = './glpK_pub_aa_feats.csv')
+feats = read.csv(file = './glpK_pub_aa_feats.csv', stringsAsFactors=FALSE)
 
 aa_chain = feats[feats$feature=="Chain",]
 feats = feats[feats$feature!="Chain",]
 
-muts = read.csv(file = './glpK_pub_aa_muts.csv')
+muts = read.csv(file = './glpK_pub_aa_muts.csv', stringsAsFactors=FALSE)
 
 muts$clr <- "black"
 muts$clr <- muts$color

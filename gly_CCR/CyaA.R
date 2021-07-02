@@ -6,16 +6,15 @@ FUNC_DISRUPT_COLOR = "#ED7D31"
 STRUCT_DISRUPT_COLOR = "#A020F0"
 FUNC_AND_STRUCT_DISRUPT_COLOR = "#A52A2A"
 
-feats = read.csv(file = './cyaA_aa_feats.csv')
+feats = read.csv(file = './cyaA_aa_feats.csv', stringsAsFactors=FALSE)
 
 aa_chain = feats[feats$feature=="Chain",]
 feats = feats[feats$feature!="Chain",]
 
-muts = read.csv(file = './cyaA_aa_muts.csv')
+muts = read.csv(file = './cyaA_aa_muts.csv', stringsAsFactors=FALSE)
 
 muts$clr <- "black"
 muts$clr <- muts$color
-
 mutations <- GRanges("r", IRanges(muts$AA.pos, width=1, names=muts$name))
 muts$border_color <- muts$clr
 muts$border_color[muts$border_color==UNKNOWN_EFFECT] <- "black"
@@ -31,7 +30,6 @@ mutations$color <- muts$study.color
 features <- GRanges("r", IRanges(feats$start, end=feats$end))
 feats$height <- rep(0.03, length(features))
 features$height = feats$height
-# 
 feats$layer <- 0
 feats$layer[feats$feature=="Catalytic region"] <- 0
 feats$layer[feats$feature=="Regulatory region"] <- 0
@@ -39,8 +37,8 @@ feats$layer[feats$feature=="Nucleotidyltransferase PFAM domain"] <- 1
 feats$layer[feats$feature=="Adenylate cyclase class-I PFAM domain"] <- 1
 feats$layer[feats$feature=="G3P associated inhibition"] <- 2
 feats$layer[feats$feature=="Phosphohistidine by Crr"] <- 2
-features$featureLayerID <- paste(feats$layer)
-names(features) <- paste(feats$feature)
+features$featureLayerID <- feats$layer
+names(features) <- feats$feature
 features$fill <- feats$color
 features$color <- feats$color
 
