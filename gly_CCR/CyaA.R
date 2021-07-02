@@ -46,7 +46,6 @@ legend <- list(
   labels=
     c(
       "m-tartrate2",
-      "SSW_GLU_XYL",
       "GYD",
       "pgiBME",
       "pgiKO_1",
@@ -59,7 +58,6 @@ legend <- list(
     ),
   fill=c(
     "#C5B0D5",
-    "#B34142",
     "#AEC7E8",
     "#F7B6D2",
     "#E377C2",
@@ -70,7 +68,6 @@ legend <- list(
     "white",
     "white"),
   col=c("white",
-        "white",
         "white",
         "white",
         "white",
