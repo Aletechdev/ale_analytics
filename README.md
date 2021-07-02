@@ -13,3 +13,5 @@ The most recent published figures used from repo used the following software ver
     - matplotlib 3.3.2
     - scipy 1.5.2
     - seaborn 0.11.0
+* javascript
+    - NGL 2.0.0-dev
