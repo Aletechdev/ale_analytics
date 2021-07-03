@@ -53,8 +53,8 @@ legend <- list(
       "ptsHI-crrKO",
       "pgiHSA",
       "unknown effect",
-      "coding disruption",
-      "predicted functional disruption"
+      "truncation",
+      "deleterious (SIFT < 0.05)"
     ),
   fill=c(
     "#C5B0D5",
