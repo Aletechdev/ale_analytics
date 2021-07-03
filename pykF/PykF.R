@@ -7,12 +7,12 @@ STRUCT_DISRUPT_COLOR = "#A020F0"
 FUNC_AND_STRUCT_DISRUPT_COLOR = "#A52A2A"
 
 # Read in feats features and remove those not interested in
-feats = read.csv(file = './PykF_feats.csv')
+feats = read.csv(file = './PykF_feats.csv', stringsAsFactors=FALSE)
 
 aa_chain = feats[feats$feature=="Chain",]
 feats = feats[feats$feature!="Chain",]
 
-muts = read.csv(file = './pykF_pub_aa_muts.csv')
+muts = read.csv(file = './pykF_pub_aa_muts.csv', stringsAsFactors=FALSE)
 
 unique(muts$study)
 
