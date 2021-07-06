@@ -1,0 +1,24 @@
+# Protein stability table
+# mutfunc version 1.0 downloaded on 10/12/2020 00:44
+# Column descriptions: 
+#  1  chr: chromosome
+#  2  pos: genomic position
+#  3  ref: genomic reference base
+#  4  alt: genomic mutation base
+#  5  gene: gene identifier
+#  6  posaa: protein position
+#  7  refaa: reference amino acid
+#  8  altaa: mutated amino acid
+#  9  impact: is the mutation predicted to impact function? '1' if yes, '0' if no
+#  10 pdb_id: pdb identifier or homology model identifier of the structure containing the mutation
+#  11 chain: pdb chain
+#  12 pdb_position: position of the mutation in the pdb structure, this can often be different from the sequence position
+#  13 ddg: predicted change in free energy of unfolding, where a value above 0 indicates a destabilising mutation
+#  14 evidence: 'exp' for experimental model or 'hom' for homology models
+chr	pos	ref	alt	gene	posaa	refaa	altaa	impact	pdb_id	chain	pdb_position	ddg	evidence
+-	-	-	-	P69783	39	D	H	1	2f3g	A	38	2.49214	exp
+-	-	-	-	P69783	93	G	S	1	2f3g	A	92	7.2727	exp
+-	-	-	-	P69783	138	P	Q	1	2f3g	A	137	3.46287	exp
+-	-	-	-	P69783	48	G	V	1	2f3g	A	47	18.6249	exp
+-	-	-	-	P69783	34	I	T	1	2f3g	A	33	3.47091	exp
+-	-	-	-	P69783	50	G	S	1	2f3g	A	49	13.6354	exp

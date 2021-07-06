@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region P69783 1 169
+P69783	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9298646,ECO:0000269|PubMed:9600841,ECO:0000269|Ref.9;Dbxref=PMID:9298646,PMID:9600841	
+P69783	UniProtKB	Chain	2	169	.	.	.	ID=PRO_0000186532;Note=PTS system glucose-specific EIIA component	
+P69783	UniProtKB	Domain	39	143	.	.	.	Note=PTS EIIA type-1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00416	
+P69783	UniProtKB	Active site	91	91	.	.	.	Note=Tele-phosphohistidine intermediate%3B for EIIA activity;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000305,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00416,ECO:0000269|PubMed:2657735,ECO:0000269|PubMed:6383826,ECO:0000305|PubMed:1961703,ECO:0000305|PubMed:9405042;Dbxref=PMID:2657735,PMID:6383826,PMID:1961703,PMID:9405042	
+P69783	UniProtKB	Metal binding	76	76	.	.	.	Note=Zinc%3B shared with glycerol kinase;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:2657735,ECO:0000269|PubMed:8170944,ECO:0000269|PubMed:9405042,ECO:0000305|PubMed:1961703;Dbxref=PMID:2657735,PMID:8170944,PMID:9405042,PMID:1961703	
+P69783	UniProtKB	Metal binding	91	91	.	.	.	Note=Zinc%3B shared with glycerol kinase;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:2657735,ECO:0000269|PubMed:8170944,ECO:0000269|PubMed:9405042,ECO:0000305|PubMed:1961703;Dbxref=PMID:2657735,PMID:8170944,PMID:9405042,PMID:1961703	
+P69783	UniProtKB	Site	76	76	.	.	.	Note=Important for phospho-donor activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735	
+P69783	UniProtKB	Modified residue	91	91	.	.	.	Note=Phosphohistidine%3B by HPr;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735	
+P69783	UniProtKB	Mutagenesis	4	4	.	.	.	Note=Same activity as the wild-type. F->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735	
+P69783	UniProtKB	Mutagenesis	76	76	.	.	.	Note=Unable to transfer phosphoryl group. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735	
+P69783	UniProtKB	Mutagenesis	91	91	.	.	.	Note=Unable to be phosphorylated by Hpr. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735	
+P69783	UniProtKB	Sequence conflict	23	31	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P69783	UniProtKB	Beta strand	5	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLC	
+P69783	UniProtKB	Beta strand	21	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	29	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Helix	34	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Helix	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLA	
+P69783	UniProtKB	Beta strand	49	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	57	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	63	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	75	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Turn	83	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLB	
+P69783	UniProtKB	Beta strand	87	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	93	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Helix	96	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Turn	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	119	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Helix	125	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3G	
+P69783	UniProtKB	Beta strand	137	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Helix	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	148	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	155	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Turn	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	
+P69783	UniProtKB	Beta strand	162	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z	

@@ -1,0 +1,119 @@
+seqname,source,feature,AA start,AA end,score,strand,frame,attribute,9,color,residue index start,residue index end
+P69783,UniProtKB,Chain,2,169,.,.,.,ID=PRO_0000186532;Note=PTS system glucose-specific EIIA component,,white,2,169
+P69783,UniProtKB,PTS Crr type-1 domain,39,143,.,.,.,Note=PTS EIIA type-1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00416,,#F2CF5B,39,143
+P69783,UniProtKB,Crr activity tele-phosphohistidine intermediate,91,91,.,.,.,"Note=Tele-phosphohistidine intermediate%3B for EIIA activity;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269,ECO:0000305,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00416,ECO:0000269|PubMed:2657735,ECO:0000269|PubMed:6383826,ECO:0000305|PubMed:1961703,ECO:0000305|PubMed:9405042;Dbxref=PMID:2657735,PMID:6383826,PMID:1961703,PMID:9405042",,#B79A20,91,91
+P69783,UniProtKB,GlpK Zinc binding site,76,76,.,.,.,"Note=Zinc%3B shared with glycerol kinase;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:2657735,ECO:0000269|PubMed:8170944,ECO:0000269|PubMed:9405042,ECO:0000305|PubMed:1961703;Dbxref=PMID:2657735,PMID:8170944,PMID:9405042,PMID:1961703",,#439894,76,76
+P69783,UniProtKB,GlpK Zinc binding site,91,91,.,.,.,"Note=Zinc%3B shared with glycerol kinase;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:2657735,ECO:0000269|PubMed:8170944,ECO:0000269|PubMed:9405042,ECO:0000305|PubMed:1961703;Dbxref=PMID:2657735,PMID:8170944,PMID:9405042,PMID:1961703",,#439894,91,91
+P69783,UniProtKB,Phospho-donor active site,76,76,.,.,.,Note=Important for phospho-donor activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735,,#83BCB6,76,76
+P69783,UniProtKB,Phosphohistidine by HPr,91,91,.,.,.,Note=Phosphohistidine%3B by HPr;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2657735;Dbxref=PMID:2657735,,#AD34AD,91,91
+P69783,UniProtKB,Beta strand,5,7,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLC,,#8C8C8C,5,7
+P69783,UniProtKB,Beta strand,21,24,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,21,24
+P69783,UniProtKB,Beta strand,29,33,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,29,33
+P69783,UniProtKB,Helix,34,36,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#937860,34,36
+P69783,UniProtKB,Beta strand,37,39,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,37,39
+P69783,UniProtKB,Helix,40,43,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#937860,40,43
+P69783,UniProtKB,Beta strand,45,47,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLA,,#8C8C8C,45,47
+P69783,UniProtKB,Beta strand,49,55,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,49,55
+P69783,UniProtKB,Beta strand,57,61,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,57,61
+P69783,UniProtKB,Beta strand,63,71,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,63,71
+P69783,UniProtKB,Beta strand,75,82,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,75,82
+P69783,UniProtKB,Turn,83,85,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GLB,,#f58231,83,85
+P69783,UniProtKB,Beta strand,87,91,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,87,91
+P69783,UniProtKB,Beta strand,93,95,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,93,95
+P69783,UniProtKB,Helix,96,99,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#937860,96,99
+P69783,UniProtKB,Turn,100,103,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#f58231,100,103
+P69783,UniProtKB,Beta strand,104,106,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,104,106
+P69783,UniProtKB,Beta strand,119,123,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,119,123
+P69783,UniProtKB,Helix,125,131,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#937860,125,131
+P69783,UniProtKB,Beta strand,132,134,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3G,,#8C8C8C,132,134
+P69783,UniProtKB,Beta strand,137,142,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,137,142
+P69783,UniProtKB,Helix,144,146,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#937860,144,146
+P69783,UniProtKB,Beta strand,148,152,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,148,152
+P69783,UniProtKB,Beta strand,155,157,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,155,157
+P69783,UniProtKB,Turn,159,161,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#f58231,159,161
+P69783,UniProtKB,Beta strand,162,168,.,.,.,Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F3Z,,#8C8C8C,162,168
+,,Membrane interface,1,18,,,,,,#B279A2,1,18
+,,N6-acetyllysine site,6,6,,,,,,#FF9D98,6,6
+,,N6-acetyllysine site,8,8,,,,,,#FF9D98,8,8
+,,N6-acetyllysine site,15,15,,,,,,#FF9D98,15,15
+,,N6-acetyllysine site,54,54,,,,,,#FF9D98,54,54
+,,N6-acetyllysine site,59,59,,,,,,#FF9D98,59,59
+,,N6-acetyllysine site,131,131,,,,,,#FF9D98,131,131
+,,N6-acetyllysine site,148,148,,,,,,#FF9D98,148,148
+,,Crr 1 PFAM domain,2,146,,,,,,#D6A5C9,2,146
+,,FrsA Crr interface,39,42,,,,,,#4C78A8,39,42
+,,FrsA Crr interface,44,44,,,,,,#4C78A8,44,44
+,,FrsA Crr interface,46,47,,,,,,#4C78A8,46,47
+,,FrsA Crr interface,70,70,,,,,,#4C78A8,70,70
+,,FrsA Crr interface,72,74,,,,,,#4C78A8,72,74
+,,FrsA Crr interface,76,76,,,,,,#4C78A8,76,76
+,,FrsA Crr interface,79,79,,,,,,#4C78A8,79,79
+,,FrsA Crr interface,87,87,,,,,,#4C78A8,87,87
+,,FrsA Crr interface,89,89,,,,,,#4C78A8,89,89
+,,FrsA Crr interface,91,91,,,,,,#4C78A8,91,91
+,,FrsA Crr interface,95,95,,,,,,#4C78A8,95,95
+,,FrsA Crr interface,97,101,,,,,,#4C78A8,97,101
+,,FrsA Crr interface,142,142,,,,,,#4C78A8,142,142
+,,PtsI Crr interface,39,41,,,,,,#9ECAE9,39,41
+,,PtsI Crr interface,44,44,,,,,,#9ECAE9,44,44
+,,PtsI Crr interface,46,47,,,,,,#9ECAE9,46,47
+,,PtsI Crr interface,70,70,,,,,,#9ECAE9,70,70
+,,PtsI Crr interface,72,74,,,,,,#9ECAE9,72,74
+,,PtsI Crr interface,79,79,,,,,,#9ECAE9,79,79
+,,PtsI Crr interface,87,87,,,,,,#9ECAE9,87,87
+,,PtsI Crr interface,89,89,,,,,,#9ECAE9,89,89
+,,PtsI Crr interface,95,95,,,,,,#9ECAE9,95,95
+,,PtsI Crr interface,97,100,,,,,,#9ECAE9,97,100
+,,PtsI Crr interface,133,133,,,,,,#9ECAE9,133,133
+,,PtsI Crr interface,142,142,,,,,,#9ECAE9,142,142
+,,Crr Crr interface,28,28,,,,,,#17BECF,28,28
+,,Crr Crr interface,56,59,,,,,,#17BECF,56,59
+,,Crr Crr interface,116,117,,,,,,#17BECF,116,117
+,,Crr Crr interface,157,161,,,,,,#17BECF,157,161
+,,GlpK Crr interface,39,42,,,,,,#E15759,39,42
+,,GlpK Crr interface,44,44,,,,,,#E15759,44,44
+,,GlpK Crr interface,46,47,,,,,,#E15759,46,47
+,,GlpK Crr interface,70,70,,,,,,#E15759,70,70
+,,GlpK Crr interface,72,73,,,,,,#E15759,72,73
+,,GlpK Crr interface,76,76,,,,,,#E15759,76,76
+,,GlpK Crr interface,79,79,,,,,,#E15759,79,79
+,,GlpK Crr interface,89,89,,,,,,#E15759,89,89
+,,GlpK Crr interface,91,91,,,,,,#E15759,91,91
+,,GlpK Crr interface,95,95,,,,,,#E15759,95,95
+,,GlpK Crr interface,97,98,,,,,,#E15759,97,98
+,,GlpK Crr interface,100,100,,,,,,#E15759,100,100
+,,GlpK Crr interface,110,110,,,,,,#E15759,110,110
+,,GlpK Crr interface,142,142,,,,,,#E15759,142,142
+,,PtsH Crr interface,38,42,,,,,,#FFBF79,38,42
+,,PtsH Crr interface,46,47,,,,,,#FFBF79,46,47
+,,PtsH Crr interface,67,67,,,,,,#FFBF79,67,67
+,,PtsH Crr interface,69,70,,,,,,#FFBF79,69,70
+,,PtsH Crr interface,72,74,,,,,,#FFBF79,72,74
+,,PtsH Crr interface,76,76,,,,,,#FFBF79,76,76
+,,PtsH Crr interface,79,81,,,,,,#FFBF79,79,81
+,,PtsH Crr interface,87,89,,,,,,#FFBF79,87,89
+,,PtsH Crr interface,91,91,,,,,,#FFBF79,91,91
+,,PtsH Crr interface,94,95,,,,,,#FFBF79,94,95
+,,PtsH Crr interface,97,98,,,,,,#FFBF79,97,98
+,,PtsH Crr interface,100,100,,,,,,#FFBF79,100,100
+,,PtsH Crr interface,110,110,,,,,,#FFBF79,110,110
+,,PtsH Crr interface,142,142,,,,,,#FFBF79,142,142
+,,PtsH Crr interface,145,145,,,,,,#FFBF79,145,145
+,,MalK Crr interface,30,33,,,,,,#54A24B,30,33
+,,MalK Crr interface,35,38,,,,,,#54A24B,35,38
+,,MalK Crr interface,44,45,,,,,,#54A24B,44,45
+,,MalK Crr interface,54,54,,,,,,#54A24B,54,54
+,,MalK Crr interface,129,136,,,,,,#54A24B,129,136
+,,MalK Crr interface,148,149,,,,,,#54A24B,148,149
+,,MalK Crr interface,154,155,,,,,,#54A24B,154,155
+,,PtsG Crr interface,38,42,,,,,,#88D27A,38,42
+,,PtsG Crr interface,46,47,,,,,,#88D27A,46,47
+,,PtsG Crr interface,70,70,,,,,,#88D27A,70,70
+,,PtsG Crr interface,72,73,,,,,,#88D27A,72,73
+,,PtsG Crr interface,76,77,,,,,,#88D27A,76,77
+,,PtsG Crr interface,89,89,,,,,,#88D27A,89,89
+,,PtsG Crr interface,91,91,,,,,,#88D27A,91,91
+,,PtsG Crr interface,94,95,,,,,,#88D27A,94,95
+,,PtsG Crr interface,97,98,,,,,,#88D27A,97,98
+,,PtsG Crr interface,100,100,,,,,,#88D27A,100,100
+,,PtsG Crr interface,142,142,,,,,,#88D27A,142,142
