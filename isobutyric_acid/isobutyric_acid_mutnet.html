@@ -1,0 +1,83 @@
+<head>
+    <title>mutnet</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.14.0/cytoscape.min.js"></script>
+    <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js></script>
+
+    <script src="https://cdn.rawgit.com/cpettitt/dagre/v0.7.4/dist/dagre.min.js"></script>
+    <script src="https://cdn.rawgit.com/cytoscape/cytoscape.js-dagre/1.5.0/cytoscape-dagre.js"></script>
+</head>
+
+<style>
+    #cy {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background: white;
+    }
+</style>
+
+<body>
+<div id="cy"></div>
+<script>
+    $.getJSON("isobutyric_acid_mutnet.json", function (data) {
+        var cy = cytoscape({
+            container: document.getElementById('cy'),
+            elements: data,
+            style: [
+                {
+                    selector: 'node',
+                    style: {
+                        // 'label': 'data(count)',
+                        'width': "mapData(count, 0, 49, 15, 100)",
+                        'height': "mapData(count, 0, 49, 15, 100)",
+                        "label": "data(name)",
+                        "text-valign": "center",
+                        "text-halign": "center",
+                        "background-color": "#555",
+                        "text-outline-color": "#555",
+                        "text-outline-width": "2px",
+                        "color": "#fff",
+                        "overlay-padding": "6px",
+                    }
+                }, {
+                    selector: 'edge',
+                    style: {
+                        // 'control-point-step-size': '140px',
+                        'label': 'data(count)',
+                        'text-background-color': 'yellow',
+                        'text-background-opacity': 0.4,
+                        'width': "mapData(count, 0, 74, 1, 30)",
+                        'curve-style': 'bezier',
+                        'target-arrow-shape': 'triangle-backcurve',
+                    }
+                }
+            ],
+            layout: {
+                /*name: 'dagre',
+                rankDir: "BT",*/
+                /*name: 'euler',
+                randomize: true,
+                animate: false*/
+                name: 'cose',
+                idealEdgeLength: 10,
+                nodeOverlap: 20,
+                refresh: 20,
+                fit: true,
+                padding: 30,
+                randomize: false,
+                componentSpacing: 10,
+                nodeRepulsion: 100000,
+                edgeElasticity: 100,
+                nestingFactor: 5,
+                gravity: 1,
+                numIter: 1000,
+                initialTemp: 200,
+                coolingFactor: 0.95,
+                minTemp: 1.0
+            },
+        });
+    });
+</script>
+</body>
