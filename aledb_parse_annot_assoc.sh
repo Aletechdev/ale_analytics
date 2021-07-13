@@ -9,7 +9,6 @@
 #~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./2_3_annot_operons.ipynb
 #~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./2_4_annot_regulons.ipynb
 #~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./2_5_annot_pathways.ipynb
-#~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./2_6_annot_COGs.ipynb
 #~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./4_assoc_genomic_feat_to_cond.ipynb
 ~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./4_5_assoc_genetic_feat_to_cond.ipynb
 ~/anaconda3/bin/jupyter nbconvert --execute --to notebook --ExecutePreprocessor.timeout=-1 --inplace ./4_6_assoc_regulon_to_cond.ipynb
