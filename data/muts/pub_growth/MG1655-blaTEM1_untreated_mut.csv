@@ -1,0 +1,15 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655-blaTEM1_untreated A1 F16 I0 R1,MG1655-blaTEM1_untreated A2 F16 I0 R1,MG1655-blaTEM1_untreated A3 F16 I0 R1,MG1655-blaTEM1_untreated A4 F16 I0 R1,MG1655-blaTEM1_untreated A5 F16 I0 R1,MG1655-blaTEM1_untreated A6 F16 I0 R1
+NC_000913,"4,542,560",MOB,IS1 (+) +9 bp,fimE,,regulator for fimA,,,1608416,coding (524‑532/597 nt),0.35,,,,,
+NC_000913,"4,542,831",MOB,IS5 (–) +4 bp,"fimE, fimA",,regulator for fimA/type 1 fimbriae major subunit,,,1608400,intergenic (+198/‑281),,,0.26,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608201,intergenic (+266/+376),0.35,0.30,0.31,0.29,0.33,0.28
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608202,intergenic (+586/+56),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,867,842",MOB,IS1 (–) +9 bp,nlpD,,murein hydrolase activator NlpD,,,1608397,coding (904‑912/1140 nt),,,0.31,,,
+NC_000913,"3,899,395",MOB,IS1 (–) +9 bp,"yieK, yieL",,putative glucosamine-6-phosphate deaminase YieK/putative hydrolase YieL,,,1608398,intergenic (‑2/+5),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,397,381",DEL,"Δ13,756 bp","[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,"[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,,1608368,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,867,169",SNP,A→T,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,1608402,I128N (ATC→AAC),,,,,,0.35
+NC_000913,"4,542,308",MOB,IS5 (–) +4 bp,fimE,,regulator for fimA,,,1608414,coding (272‑275/597 nt),,,,0.31,,
+NC_000913,"2,867,607",SNP,C→G,"rpoS, nlpD",,"RNA polymerase, sigma S (sigma 38) factor/murein hydrolase activator NlpD",,,1608407,intergenic (‑56/+7),,0.24,,,,
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1608190,pseudogene (917‑918/1358 nt),1.00,1.00,1.00,1.00,1.00,1.00

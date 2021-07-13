@@ -1,0 +1,34 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655_doxycycline A1 F22 I1 R1,MG1655_doxycycline A2 F22 I1 R1,MG1655_doxycycline A3 F22 I1 R1,MG1655_doxycycline A4 F22 I1 R1,MG1655_doxycycline A5 F22 I1 R1,MG1655_doxycycline A5 F22 I2 R1
+NC_000913,"1,619,325",SNP,G→A,marR,,DNA-binding transcriptional repressor MarR,,,1608320,G69E (GGA→GAA),,,,1.00,1.00,1.00
+NC_000913,"1,903,280",SNP,G→A,manY,,mannose-specific PTS enzyme IIC component,,,1608321,G67S (GGT→AGT),,,,,1.00,1.00
+NC_000913,"3,397,946",MOB,IS5 (+) +4 bp,yhdE,,nucleoside triphosphate pyrophosphatase YhdE,,,1608322,coding (430‑433/594 nt),,,,,1.00,1.00
+NC_000913,"459,457",DEL,Δ12 bp,lon,,Lon protease,,,1608323,coding (570‑581/2355 nt),,,,1.00,,
+NC_000913,"3,395,063",DEL,Δ1 bp,yhdP,,AsmA2 domain-containing protein,,,1608324,coding (1196/3801 nt),,,,1.00,,
+NC_000913,"4,182,442",SNP,G→C,rpoB,,RNA polymerase subunit beta,,,1608325,V400L (GTT→CTT),,,,1.00,,
+NC_000913,"485,798",SNP,G→A,acrR,,DNA-binding transcriptional repressor AcrR,,,1608313,R13H (CGC→CAC),1.00,,,,,
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,185,993",DEL,Δ18 bp,rpoC,,RNA polymerase subunit beta',,,1608305,coding (644‑661/4224 nt),,1.00,1.00,,,
+NC_000913,"2,039,253",SNP,C→A,yedX,,hydroxyisourate hydrolase/transthyretin-related protein,,,1608316,L100I (CTT→ATT),1.00,,,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1120681,pseudogene (915‑916/1358 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"296,504",SNP,T→G,intF,,CP4-6 prophage; putative phage integrase,,,1608299,N198T (AAC→ACC),,,1.00,,,
+NC_000913,"485,977",MOB,IS5 (–) +4 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608300,coding (217‑220/648 nt),,,1.00,,,
+NC_000913,"803,662",SNP,C→A,ybhJ,,putative hydratase YbhJ,,,1608301,L54I (CTT→ATT),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,619,399",SNP,C→T,marR,,DNA-binding transcriptional repressor MarR,,,1608302,R94C (CGC→TGC),,,1.00,,,
+NC_000913,"1,905,761",SNP,G→A,mntP,,Mn(2(+)) exporter,,,1608303,G25D (GGT→GAT),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,939,260",SNP,G→A,lpxM,,myristoyl-acyl carrier protein-dependent acyltransferase,,,1608304,Q312* (CAG→TAG),,,1.00,,,
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,390,754",SNP,G→T,rsgA,,ribosome small subunit-dependent GTPase A,,,1608306,A252A (GCC→GCA),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"485,894",SNP,G→A,acrR,,DNA-binding transcriptional repressor AcrR,,,1608307,R45H (CGC→CAC),,1.00,,,,
+NC_000913,"1,619,370",SNP,T→G,marR,,DNA-binding transcriptional repressor MarR,,,1608308,V84G (GTG→GGG),,1.00,,,,
+NC_000913,"3,131,341",DEL,"Δ2,977 bp","[yghQ],yghR,yghS,[yghT]",,"[yghQ],yghR,yghS,[yghT]",,,1608309,IS5‑mediated,,1.00,,,,
+NC_000913,"3,411,503",SNP,C→T,fis,,DNA-binding transcriptional dual regulator Fis,,,1608310,A78V (GCG→GTG),,1.00,,,,
+NC_000913,"4,625,502",DEL,Δ204 bp,serB,,phosphoserine phosphatase,,,1608311,coding (608‑811/969 nt),,1.00,,,,
+NC_000913,"61,712",DEL,Δ11 bp,rapA,,RNA polymerase-binding ATPase and RNAP recycling factor,,,1608312,coding (1543‑1553/2907 nt),1.00,,,,,
+NC_000913,"3,815,859",DEL,Δ82 bp,[rph],,[rph],,,1120692,,1.00,,1.00,,,
+NC_000913,"1,619,100",DEL,Δ20 bp,"marC, marR",,inner membrane protein MarC/DNA-binding transcriptional repressor MarR,,,1608314,intergenic (‑192/‑1),1.00,,,,,
+NC_000913,"1,939,258",MOB,IS5 (+) +4 bp,lpxM,,myristoyl-acyl carrier protein-dependent acyltransferase,,,1608315,coding (933‑936/972 nt),1.00,,,,,
+NC_000913,"458,790",MOB,IS186 (+) +6 bp :: Δ1 bp,"clpX, lon",,ATP-dependent Clp protease ATP-binding subunit ClpX/Lon protease,,,1603772,intergenic (+90/‑93),1.00,1.00,1.00,,,
+NC_000913,"55,452",SNP,G→T,lptD,,lipopolysaccharide assembly protein LptD,,,1608317,A553D (GCC→GAC),,,,,1.00,
+NC_000913,"459,278",DEL,Δ69 bp,lon,,Lon protease,,,1608318,coding (391‑459/2355 nt),,,,,1.00,1.00
+NC_000913,"486,122",MOB,IS1 (+) +8 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608319,coding (362‑369/648 nt),,,,1.00,1.00,1.00

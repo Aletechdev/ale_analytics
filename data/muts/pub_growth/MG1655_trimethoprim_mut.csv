@@ -1,0 +1,23 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655_trimethoprim A1 F18 I1 R1,MG1655_trimethoprim A1 F18 I2 R1,MG1655_trimethoprim A1 F18 I3 R1,MG1655_trimethoprim A2 F17 I1 R1,MG1655_trimethoprim A3 F16 I1 R1,MG1655_trimethoprim A4 F18 I1 R1,MG1655_trimethoprim A5 F19 I1 R1
+NC_000913,"49,765",SNP,C→T,"kefC, folA",,K(+) : H(+) antiporter KefC/dihydrofolate reductase,,,1608326,intergenic (+134/‑58),1.00,1.00,1.00,1.00,,1.00,1.00
+NC_000913,"49,884",SNP,C→T,folA,,dihydrofolate reductase,,,1608327,P21L (CCG→CTG),1.00,1.00,1.00,1.00,,,
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"481,400",SNP,C→T,acrB,,multidrug efflux pump RND permease AcrB,,,1608329,A1002T (GCA→ACA),1.00,1.00,1.00,,,,
+NC_000913,"485,614",SNP,G→T,acrA,,multidrug efflux pump membrane fusion lipoprotein AcrA,,,1608330,N2K (AAC→AAA),1.00,1.00,1.00,,,,
+NC_000913,"3,815,895",DEL,Δ25 bp,rph,,truncated RNase PH,,,1608331,coding (631‑655/687 nt),,,,1.00,,,
+NC_000913,"49,791",SNP,G→A,"kefC, folA",,K(+) : H(+) antiporter KefC/dihydrofolate reductase,,,1608332,intergenic (+160/‑32),,,,,1.00,,
+NC_000913,"49,910",SNP,T→A,folA,,dihydrofolate reductase,,,1608333,W30R (TGG→AGG),,,,,1.00,,1.00
+NC_000913,"575,786",DEL,Δ991 bp,nmpC,,DLP12 prophage; putative outer membrane porin NmpC,,,1608334,IS5‑mediated,,,,,1.00,,
+NC_000913,"3,003,829",SNP,C→A,xdhC,,putative xanthine dehydrogenase iron-sulfur-binding subunit XdhC,,,1608335,T114N (ACC→AAC),,,,,1.00,,
+NC_000913,"49,910",SNP,T→G,folA,,dihydrofolate reductase,,,1608336,W30G (TGG→GGG),,,,,,1.00,
+NC_000913,"4,182,820",SNP,C→T,rpoB,,RNA polymerase subunit beta,,,1608017,H526Y (CAC→TAC),1.00,1.00,1.00,,,,
+NC_000913,"2,243,036",SNP,G→T,folE,,GTP cyclohydrolase 1,,,1608338,S206Y (TCC→TAC),,,,,,1.00,
+NC_000913,"49,898",SNP,G→A,folA,,dihydrofolate reductase,,,1608339,A26T (GCC→ACC),,,,,,,1.00
+NC_000913,"50,102",SNP,A→C,folA,,dihydrofolate reductase,,,1608337,I94L (ATT→CTT),,,,,,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1120681,pseudogene (915‑916/1358 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"803,662",SNP,C→A,ybhJ,,putative hydratase YbhJ,,,1608301,L54I (CTT→ATT),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,905,761",SNP,G→A,mntP,,Mn(2(+)) exporter,,,1608303,G25D (GGT→GAT),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"49,905",SNP,T→G,folA,,dihydrofolate reductase,,,1608328,L28R (CTC→CGC),1.00,1.00,1.00,1.00,1.00,,
+NC_000913,"4,390,754",SNP,G→T,rsgA,,ribosome small subunit-dependent GTPase A,,,1608306,A252A (GCC→GCA),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00,,1.00

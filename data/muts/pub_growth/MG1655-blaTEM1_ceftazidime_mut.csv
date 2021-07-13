@@ -1,0 +1,24 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655-blaTEM1_ceftazidime A1 F5 I0 R1,MG1655-blaTEM1_ceftazidime A2 F5 I0 R1,MG1655-blaTEM1_ceftazidime A3 F5 I0 R1,MG1655-blaTEM1_ceftazidime A4 F5 I0 R1,MG1655-blaTEM1_ceftazidime A5 F5 I0 R1
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608201,intergenic (+266/+376),0.27,0.33,0.32,0.37,0.24
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608202,intergenic (+586/+56),1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,899,395",MOB,IS1 (–) +9 bp,"yieK, yieL",,putative glucosamine-6-phosphate deaminase YieK/putative hydrolase YieL,,,1608398,intergenic (‑2/+5),1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,163,048",SNP,T→C,baeS,,sensory histidine kinase BaeS,,,1608497,L58P (CTT→CCT),,1.00,,,
+NC_000913,"1,397,381",DEL,"Δ13,756 bp","[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,"[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,,1608368,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"481,400",SNP,C→T,acrB,,multidrug efflux pump RND permease AcrB,,,1608329,A1002T (GCA→ACA),1.00,,,,
+NC_000913,"575,786",DEL,"Δ1,438 bp",[nmpC],,[nmpC],,,1608489,IS5‑mediated,,,,1.00,
+NC_000913,"2,163,546",DEL,Δ33 bp,baeS,,sensory histidine kinase BaeS,,,1608490,coding (671‑703/1404 nt),,,,1.00,
+NC_000913,"3,535,825",SNP,G→T,envZ,,sensory histidine kinase EnvZ,,,1608491,T15K (ACG→AAG),,,,1.00,
+NC_000913,"483,542",SNP,C→T,acrB,,multidrug efflux pump RND permease AcrB,,,1608492,G288S (GGT→AGT),,,,,1.00
+NC_000913,"1,619,375",INS,+G,marR,,DNA-binding transcriptional repressor MarR,,,1608493,coding (256/435 nt),,,,,1.00
+NC_000913,"2,163,369",SNP,A→C,baeS,,sensory histidine kinase BaeS,,,1608495,Q165P (CAA→CCA),,,1.00,,
+NC_000913,"3,535,565",SNP,C→G,envZ,,sensory histidine kinase EnvZ,,,1608496,A102P (GCG→CCG),,,1.00,,
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,535,166",DEL,Δ93 bp,envZ,,sensory histidine kinase EnvZ,,,1608498,coding (611‑703/1353 nt),,0.29,,,
+NC_000913,"3,535,315",SNP,G→A,envZ,,sensory histidine kinase EnvZ,,,1608499,P185L (CCG→CTG),,0.23,,,
+NC_000913,"3,535,403",SNP,C→A,envZ,,sensory histidine kinase EnvZ,,,1608500,D156Y (GAT→TAT),,0.41,,,
+NC_000913,"1,619,256",SNP,T→C,marR,,DNA-binding transcriptional repressor MarR,,,1608501,L46P (CTC→CCC),1.00,,,,
+NC_000913,"3,535,436",SNP,C→A,envZ,,sensory histidine kinase EnvZ,,,1608502,V145L (GTA→TTA),1.00,,,,
+NC_000913,"3,802,682",MOB,IS1 (–) +9 bp,waaO,,"UDP-D-glucose:(glucosyl)LPS alpha-1,3-glucosyltransferase",,,1608503,coding (369‑377/1020 nt),1.00,,,,
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1608190,pseudogene (917‑918/1358 nt),1.00,1.00,1.00,1.00,1.00

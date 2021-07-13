@@ -1,0 +1,18 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,tpiKO A1 F8 I1 R1,tpiKO A1 F8 I2 R1,tpiKO A1 F28 I2 R1,tpiKO A3 F28 I1 R1,tpiKO A4 F13 I1 R1,tpiKO A7 F9 I1 R1,tpiKO A9 F14 I1 R1
+NC_000913,"21,506",SNP,G→T,ribF,,bifunctional riboflavin kinase/FAD synthetase,,,119648,A34S (GCG→TCG),,,,,,1.00,
+NC_000913,"1,157,869",DEL,Δ18 bp,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119649,coding (1‑18/1434 nt),,,,,,1.00,
+NC_000913,"3,088,188",SNP,G→A,"metK, galP",,S-adenosylmethionine synthetase/D-galactose transporter,,,119650,intergenic (+328/‑96),1.00,,,,,,
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,37947,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,258",SNP,A→G,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,119652,pseudogene (105/442 nt),,,,,,,1.00
+NC_000913,"1,159,202",DEL,Δ9 bp,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119645,coding (1334‑1342/1434 nt),1.00,,,1.00,,,
+NC_000913,"1,158,683",MOB,IS5 (–) +4 bp,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119651,coding (815‑818/1434 nt),,,,,,,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,37939,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,182,809",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,119646,S522Y (TCT→TAT),,,,1.00,,,
+NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,26102,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,37945,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,83866,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,088,193",SNP,C→A,"metK, galP",,S-adenosylmethionine synthetase/D-galactose transporter,,,119643,intergenic (+333/‑91),,1.00,1.00,1.00,1.00,,
+NC_000913,"578,890",INS,(T)7→8,borD,,DLP12 prophage; putative lipoprotein,,,119644,coding (4/294 nt),,,,1.00,,,
+NC_000913,"1,397,381",DEL,"Δ13,756 bp","[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,ydaM,ydaN,fnrS,dbpA,[ttcA]",,"[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,ydaM,ydaN,fnrS,dbpA,[ttcA]",,,119642,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,183,214",SNP,C→T,rpoB,,"RNA polymerase, beta subunit",,,43358,T657I (ACC→ATC),,,1.00,,,,
+NC_000913,"1,157,942",DEL,Δ2 bp,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119647,coding (74‑75/1434 nt),,,,,1.00,,

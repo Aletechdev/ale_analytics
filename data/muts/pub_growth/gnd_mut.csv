@@ -1,0 +1,28 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,gnd A0 F0 I1 R1,gnd A17 F170 I0 R1,gnd A17 F170 I1 R1,gnd A17 F170 I2 R1,gnd A18 F169 I0 R1,gnd A18 F169 I1 R1,gnd A18 F169 I2 R1,gnd A19 F171 I0 R1,gnd A19 F171 I1 R1,gnd A19 F171 I2 R1
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103622,intergenic (+586/+56),,1.00,,,1.00,,,1.00,,
+NC_000913,"1,678,024",SNP,C→T,"pntA, ydgH",,"pyridine nucleotide transhydrogenase, alpha subunit/DUF1471 family periplasmic protein",,,799560,intergenic (‑121/‑403),,,,,,,,1.00,1.00,1.00
+NC_000913,"1,697,375",SNP,T→C,hdhA,,"7-alpha-hydroxysteroid dehydrogenase, NAD-dependent",,,799561,Q222Q (CAA→CAG),,,,,,,,1.00,1.00,1.00
+NC_000913,"4,296,190",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1120334,intergenic (+396/+246),,,,,0.27,,,,,
+NC_000913,"4,296,191",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1120335,intergenic (+397/+245),,0.22,,,0.29,,,,,
+NC_000913,"3,951,735",DEL,Δ326 bp,ilvG,,"pseudogene, acetolactate synthase 2 large subunit, valine-insensitive; acetolactate synthase II, large subunit, cryptic, interrupted",,,1114004,pseudogene (194‑519/663 nt),,,,,,,,,1.00,1.00
+NC_000913,"3,700,725",SNP,A→T,yhjV,,putative transporter,,,1566613,I55F (ATC→TTC),,,,,,,,,,1.00
+NC_000913,"3,968,459",SNP,C→T,wecA,,UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase,,,1566614,Q182* (CAA→TAA),,,,,,,,,,1.00
+NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,673244,intergenic (‑271/‑264),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,770909,I204S (ATC→AGC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,001,645",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,1112479,coding (220‑224/951 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,184,543",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,1112480,P1100Q (CCG→CAG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,566843,intergenic (‑1/+1),1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,1102505,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00
+NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,1102506,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,644028,intergenic (+587/+55),1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00
+NC_000913,"4,242,636",DEL,Δ1 bp,malG,,maltose transporter subunit,,,1566638,coding (881/891 nt),,,,,,,,,1.00,
+NC_000913,"3,950,342",DEL,Δ1 bp,ilvL,,ilvG operon leader peptide,,,1114354,coding (21/99 nt),,1.00,1.00,1.00,,,,,,
+NC_000913,"3,578,758",MOB,IS5 (–) +4 bp,"gntR, yhhW",,d-gluconate inducible gluconate regulon transcriptional repressor/quercetinase activity in vitro,,,1566643,intergenic (‑32/+189),,,,,0.29,1.00,,,,
+NC_000913,"3,950,468",INS,(G)5→6,"ilvL, ilvX",,ilvG operon leader peptide/uncharacterized protein,,,1566645,intergenic (+48/‑39),,,,,,1.00,,,,
+NC_000913,"4,296,268",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1105334,intergenic (+474/+168),,,,,0.20,,,,,
+NC_000913,"962,982",SNP,G→C,rpsA,,30S ribosomal subunit protein S1,,,799610,V330L (GTT→CTT),,,,,0.23,,1.00,,,
+NC_000913,"1,020,956",SNP,A→G,"sulA, sxy",,SOS cell division inhibitor/CRP-S-dependent promoter expression factor,,,799611,intergenic (‑37/‑182),,,,,0.33,,1.00,,,
+NC_000913,"1,547,879",DEL,Δ1 bp,fdnG,,"formate dehydrogenase-N, alpha subunit, nitrate-inducible",,,799612,coding (479/3048 nt),,,,,,,1.00,,,
+NC_000913,"1,677,913",SNP,T→C,"pntA, ydgH",,"pyridine nucleotide transhydrogenase, alpha subunit/DUF1471 family periplasmic protein",,,799613,intergenic (‑10/‑514),,1.00,1.00,1.00,0.61,,1.00,,,
+NC_000913,"699,471",DEL,Δ1 bp,"asnB, umpH",,asparagine synthetase B/UMP phosphatase,,,799797,intergenic (‑294/+103),,,,,,,,,1.00,

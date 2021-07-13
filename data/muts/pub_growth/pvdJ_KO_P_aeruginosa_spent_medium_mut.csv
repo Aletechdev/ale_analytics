@@ -1,0 +1,17 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,pvdJ_KO_P_aeruginosa_spent_medium A1 F15 I2 R1,pvdJ_KO_P_aeruginosa_spent_medium A1 F15 I3 R1,pvdJ_KO_P_aeruginosa_spent_medium A2 F15 I1 R1,pvdJ_KO_P_aeruginosa_spent_medium A2 F15 I2 R1,pvdJ_KO_P_aeruginosa_spent_medium A2 F15 I3 R1,pvdJ_KO_P_aeruginosa_spent_medium A3 F15 I1 R1,pvdJ_KO_P_aeruginosa_spent_medium A3 F15 I2 R1,pvdJ_KO_P_aeruginosa_spent_medium A3 F15 I3 R1
+NC_000913,"1,197,502",SNP,C→T,ymfD,,e14 prophage; putative SAM-dependent methyltransferase,,,85186,G11R (GGA→AGA),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,178,227",SNP,T→G,nusG,,transcription termination factor,,,90617,V162G (GTT→GGT),,,,,,,,1.00
+NC_000913,"486,122",MOB,IS1 (–) +8 bp,acrR,,transcriptional repressor,,,90614,coding (362‑369/648 nt),,,,,,1.00,1.00,
+NC_000913,"264,098",SNP,G→T,ykfH,,uncharacterized protein,,,90604,L50L (CTC→CTA),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,679,525",SNP,G→T,yphG,,DUF4380 domain-containing TPR repeat protein,,,90605,A1074D (GCT→GAT),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,413,571",SNP,T→C,"acrS, acrE",,acrAB operon transcriptional repressor/cytoplasmic membrane lipoprotein,,,90607,intergenic (‑106/‑293),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,37939,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,811,215",DEL,Δ1 bp,mprA,,transcriptional repressor of microcin B17 synthesis and multidrug efflux,,,90613,coding (446/531 nt),1.00,1.00,1.00,1.00,1.00,,,
+NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,26102,,1.00,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,811,095",SNP,A→C,mprA,,transcriptional repressor of microcin B17 synthesis and multidrug efflux,,,90615,D109A (GAT→GCT),,,,,,1.00,,1.00
+NC_000913,"3,585,681",SNP,G→T,ggt,,gamma-glutamyltranspeptidase,,,90616,G381G (GGC→GGA),,,,,,,,1.00
+NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,37945,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,83866,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,579,269",DEL,"Δ4,159 bp","[yhhW],yhhX,ryhB,yhhY,yhhZ,yrhA",,"[yhhW],yhhX,ryhB,yhhY,yhhZ,yrhA",,,90619,IS1‑mediated,,,,1.00,,,,
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,26191,intergenic (+254/‑485),1.00,1.00,1.00,1.00,,,1.00,1.00
+NC_000913,"3,580,806",DEL,"Δ2,622 bp","ryhB,yhhY,yhhZ,yrhA",,"ryhB,yhhY,yhhZ,yrhA",,,90618,IS1‑mediated,,,,,1.00,,,

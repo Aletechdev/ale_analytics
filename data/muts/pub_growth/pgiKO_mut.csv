@@ -1,0 +1,36 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,pgiKO A0 F0 I1 R1,pgiKO A3 F10 I1 R1,pgiKO A3 F22 I1 R1,pgiKO A4 F11 I1 R1,pgiKO A4 F16 I1 R1,pgiKO A4 F26 I1 R1,pgiKO A19 F20 I1 R1,pgiKO A19 F55 I1 R1,pgiKO A19 F90 I1 R1,pgiKO A20 F9 I1 R1,pgiKO A20 F13 I1 R1,pgiKO A20 F60 I1 R1,pgiKO A20 F103 I1 R1
+NC_000913_3_KO_pgi,"257,908",DEL,Δ776 bp,[crl],,[crl],,,119559,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"668,742",SNP,C→G,rsfS,,ribosomal silencing factor,,,119560,E99Q (GAA→CAA),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"1,166,727",SNP,G→C,ndh,,respiratory NADH dehydrogenase 2/cupric reductase,,,119561,E215Q (GAA→CAA),,,,,,,,,,,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,119562,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,119563,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"2,513,351",SNP,C→A,nupC,,nucleoside (except guanosine) transporter,,,119564,L104M (CTG→ATG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"3,397,657",DEL,Δ9 bp,rng,,ribonuclease G,,,119565,coding (131‑139/1470 nt),,,,,,,,,,,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,119566,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"4,233,757",INS,+46 bp,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119567,intergenic (‑524/‑583),,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"4,233,840",INS,+46 bp,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119568,intergenic (‑607/‑500),,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"4,294,815",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,119569,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_KO_pgi,"3,440,086",SNP,C→A,rpoA,,"RNA polymerase, alpha subunit",,,119570,G315V (GGC→GTC),,1.00,1.00,,,,,,,,,,
+NC_000913_3_KO_pgi,"1,196,220",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,119571,H366H (CAC→CAT),,,,,,,,,,,,1.00,1.00
+NC_000913_3_KO_pgi,"1,196,232",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,119572,T370T (ACC→ACT),,,,,,,,,,,,1.00,1.00
+NC_000913_3_KO_pgi,"1,196,245",SNP,T→C,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,119573,L375M (TTA→CTG),,,,,,,,,,,,,1.00
+NC_000913_3_KO_pgi,"1,196,247",SNP,A→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,119574,L375M (TTA→CTG),,,,,,,,,,,,,1.00
+NC_000913_3_KO_pgi,"2,977,325",SNP,T→C,galR,,galactose-inducible d-galactose regulon transcriptional repressor; autorepressor,,,119575,C243R (TGT→CGT),,,,,,,,,,,,,1.00
+NC_000913_3_KO_pgi,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,119576,,,,,,,,,,,,,,1.00
+NC_000913_3_KO_pgi,"4,133,781",SNP,C→T,"metF, katG",,"5,10-methylenetetrahydrofolate reductase/catalase-peroxidase HPI, heme b-containing",,,119577,intergenic (+275/‑54),,,,,,,,,,,,1.00,1.00
+NC_000913_3_KO_pgi,"3,316,883",SNP,T→G,nusA,,transcription termination/antitermination L factor,,,119578,E215A (GAA→GCA),,,1.00,,,,,,,,,,
+NC_000913_3_KO_pgi,"1,158,933",SNP,G→A,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119579,W355* (TGG→TGA),,,,,,,,,,1.00,,,
+NC_000913_3_KO_pgi,"948,983",SNP,A→T,ycaN,,LysR family putative transcriptional regulator,,,119580,Y196N (TAT→AAT),,,,,1.00,1.00,,,,,,,
+NC_000913_3_KO_pgi,"1,275,721",SNP,C→T,narL,,response regulator in two-component regulatory system with NarX,,,119581,E37K (GAA→AAA),,,,,1.00,1.00,,,,,,,
+NC_000913_3_KO_pgi,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,119582,intergenic (+254/‑485),,,,1.00,1.00,1.00,,,,,,,
+NC_000913_3_KO_pgi,"3,440,137",SNP,T→G,rpoA,,"RNA polymerase, alpha subunit",,,119583,K298T (AAA→ACA),,,,,1.00,1.00,,,,,,,
+NC_000913_3_KO_pgi,"4,160,854",SNP,C→T,"sthA, fabR",,"pyridine nucleotide transhydrogenase, soluble/transcriptional repressor of fabA and fabB",,,119584,intergenic (‑64/‑270),,,,,1.00,1.00,,,,,,,
+NC_000913_3_KO_pgi,"1,399,451",SNP,T→G,fnr,,oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor,,,119585,S26R (AGC→CGC),,,,,,,,,1.00,,,,
+NC_000913_3_KO_pgi,"2,662,004",SNP,T→A,iscR,,isc operon transcriptional repressor; suf operon transcriptional activator; oxidative stress- and iron starvation-inducible; autorepressor,,,119586,E43V (GAA→GTA),,,,,,,,,1.00,,,,
+NC_000913_3_KO_pgi,"2,664,591",SNP,C→A,yfhR,,putative S9 family prolyl oligopeptidase,,,119587,P68T (CCT→ACT),,,,,,,,,1.00,,,,
+NC_000913_3_KO_pgi,"3,486,594",SNP,A→C,crp,,"cAMP-activated global transcription factor, mediator of catabolite repression",,,119588,T159P (ACT→CCT),,,,,,,1.00,1.00,1.00,,,,
+NC_000913_3_KO_pgi,"3,552,719",SNP,G→T,"malP, malT",,maltodextrin phosphorylase/mal regulon transcriptional activator,,,119589,intergenic (‑246/‑366),,,,,,,,,1.00,,,,
+NC_000913_3_KO_pgi,"4,015,910",DEL,Δ1 bp,ysgA,,putative carboxymethylenebutenolidase,,,119590,coding (260/816 nt),,,,,,,1.00,1.00,1.00,,,,
+NC_000913_3_KO_pgi,"4,183,994",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,119591,S917Y (TCT→TAT),,,,,,,,1.00,,,,,
+NC_000913_3_KO_pgi,"2,977,050",DEL,Δ46 bp,galR,,galactose-inducible d-galactose regulon transcriptional repressor; autorepressor,,,119592,coding (452‑497/1032 nt),,,,,,,,,,,,1.00,
+NC_000913_3_KO_pgi,"3,440,135",SNP,A→C,rpoA,,"RNA polymerase, alpha subunit",,,119593,S299A (TCT→GCT),,,,1.00,,,,,,,,,

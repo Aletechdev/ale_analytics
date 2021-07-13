@@ -1,0 +1,28 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655_ceftazidime A1 F5 I0 R1,MG1655_ceftazidime A2 F5 I0 R1,MG1655_ceftazidime A3 F5 I0 R1,MG1655_ceftazidime A4 F5 I0 R1,MG1655_ceftazidime A5 F5 I0 R1
+NC_000913,"1,619,078",SNP,A→G,"marC, marR",,inner membrane protein MarC/DNA-binding transcriptional repressor MarR,,,1608384,intergenic (‑170/‑42),,,1.00,,
+NC_000913,"3,535,126",SNP,G→A,envZ,,sensory histidine kinase EnvZ,,,1608385,P248L (CCG→CTG),,,1.00,,
+NC_000913,"401,284",SNP,G→T,"ddlA, iraP",,D-alanine--D-alanine ligase A/anti-adaptor protein for sigma(S) stabilization,,,1608386,intergenic (‑361/‑102),,0.35,,,
+NC_000913,"2,164,140",SNP,G→C,baeS,,sensory histidine kinase BaeS,,,1608388,G422A (GGT→GCT),,1.00,,,
+NC_000913,"2,667,560",SNP,A→T,hcaT,,putative 3-phenylpropionate transporter,,,1608389,L96Q (CTG→CAG),,1.00,,,
+NC_000913,"3,535,129",SNP,G→A,envZ,,sensory histidine kinase EnvZ,,,1608390,T247M (ACG→ATG),,1.00,,,
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608201,intergenic (+266/+376),0.33,0.31,0.30,0.24,0.28
+NC_000913,"2,164,340",SNP,T→A,baeR,,DNA-binding transcriptional activator BaeR,,,1608394,L22Q (CTG→CAG),1.00,,,,
+NC_000913,"3,535,792",DEL,Δ9 bp,envZ,,sensory histidine kinase EnvZ,,,1608395,coding (69‑77/1353 nt),1.00,,,,
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,619,370",SNP,T→A,marR,,DNA-binding transcriptional repressor MarR,,,1608369,V84E (GTG→GAG),,,,0.91,
+NC_000913,"3,805,650",MOB,IS1 (+) +8 bp,waaP,,lipopolysaccharide core heptose (I) kinase,,,1608382,coding (294‑301/798 nt),,,,,0.23
+NC_000913,"986,409",INS,+A,ompF,,outer membrane porin F,,,1608375,coding (574/1089 nt),,,,,0.80
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,803,909",MOB,IS5 (–) +4 bp,waaB,,"UDP-D-galactose:(glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase",,,1608381,coding (226‑229/1080 nt),,,,,0.57
+NC_000913,"485,980",MOB,IS1 (+) +9 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608367,coding (220‑228/648 nt),,,,0.23,
+NC_000913,"1,397,381",DEL,"Δ13,756 bp","[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,"[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,,1608368,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,382,719",SNP,T→A,epmA,,EF-P-lysine lysyltransferase,,,1608392,I26N (ATC→AAC),,0.34,,,
+NC_000913,"3,805,441",DEL,Δ19 bp,waaP,,lipopolysaccharide core heptose (I) kinase,,,1608373,coding (492‑510/798 nt),,,,0.30,
+NC_000913,"3,807,700",MOB,IS1 (–) +8 bp,waaQ,,lipopolysaccharide core heptosyltransferase 3,,,1608374,coding (392‑399/1035 nt),,,,0.27,
+NC_000913,"556,815",SNP,A→C,ybcJ,,putative RNA-binding protein YbcJ,,,1608393,L20R (CTG→CGG),1.00,,,,
+NC_000913,"1,292,151",MOB,IS4 (+) +12 bp,galU,,UTP--glucose-1-phosphate uridylyltransferase,,,1608376,coding (695‑706/909 nt),,0.35,,,
+NC_000913,"1,619,235",SNP,C→T,marR,,DNA-binding transcriptional repressor MarR,,,1608377,T39I (ACC→ATC),,,,,0.77
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608202,intergenic (+586/+56),1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1608190,pseudogene (917‑918/1358 nt),1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,291,543",MOB,IS1 (+) +9 bp,galU,,UTP--glucose-1-phosphate uridylyltransferase,,,1608383,coding (87‑95/909 nt),,,1.00,,

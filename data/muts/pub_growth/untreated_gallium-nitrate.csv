@@ -1,0 +1,20 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,gallium-nitrate A1 F10 I0 R1,gallium-nitrate A2 F10 I0 R1,gallium-nitrate A3 F10 I0 R1,gallium-nitrate A4 F10 I0 R1
+NC_000913,"819,360",SNP,G→T,moaE,,molybdopterin synthase catalytic subunit,,,1608257,L22L (CTG→CTT),0.24,,,
+NC_000913,"3,651,029",MOB,IS2 (+) +5 bp,"arsC, yhiS",,arsenate reductase/putative uncharacterized protein YhiS,,,1608197,intergenic (+367/‑258),,,,0.91
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00
+NC_000913,"1,299,499",DEL,"Δ1,199 bp",insH21,,insH21,,,1120584,,1.00,1.00,1.00,1.00
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608201,intergenic (+266/+376),0.40,0.57,0.26,0.45
+NC_000913,"4,183,378",SNP,T→C,rpoB,,RNA polymerase subunit beta,,,1608263,S712P (TCC→CCC),0.31,0.78,0.36,
+NC_000913,"4,186,532",SNP,A→G,rpoC,,RNA polymerase subunit beta',,,1608264,K395E (AAA→GAA),0.29,,,
+NC_000913,"3,815,826",SNP,C→A,"pyrE, rph",,orotate phosphoribosyltransferase/truncated RNase PH,,,1608268,intergenic (‑58/+37),,0.20,,
+NC_000913,"4,182,820",SNP,C→T,rpoB,,RNA polymerase subunit beta,,,1608017,H526Y (CAC→TAC),,,,0.32
+NC_000913,"3,815,877",DEL,Δ1 bp,rph,,truncated RNase PH,,,1608271,coding (673/687 nt),,,0.56,
+NC_000913,"3,815,880",SNP,C→T,rph,,truncated RNase PH,,,1608272,E224K (GAA→AAA),,,0.61,
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00
+NC_000913,"4,496,351",SNP,C→T,"ahr, leuX",,"aldehyde reductase, NADPH-dependent/tRNA-Leu",,,1608274,intergenic (‑142/‑54),,,0.24,
+NC_000913,"4,183,379",SNP,C→T,rpoB,,RNA polymerase subunit beta,,,1608254,S712F (TCC→TTC),,,,0.63
+NC_000913,"4,479,020",SNP,A→T,"rraB, yjgM",,ribonuclease E inhibitor protein B/putative acetyltransferase YjgM,,,1608273,intergenic (+131/+14),,,0.27,
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00
+NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA-5, uspC",,IS1 protein InsA/universal stress protein C,,,1608188,intergenic (‑271/‑264),1.00,1.00,1.00,1.00
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608202,intergenic (+586/+56),1.00,1.00,1.00,1.00
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1608190,pseudogene (917‑918/1358 nt),1.00,1.00,1.00,1.00

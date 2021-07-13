@@ -1,0 +1,20 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,gallium-nitrate A1 F10 I0 R1,gallium-nitrate A2 F10 I0 R1,gallium-nitrate A3 F10 I0 R1,gallium-nitrate A4 F10 I0 R1,gallium-nitrate A5 F10 I0 R1
+NC_000913,"3,651,029",MOB,IS2 (+) +5 bp,"arsC, yhiS",,arsenate reductase/putative uncharacterized protein YhiS,,,1608197,intergenic (+367/‑258),,,,,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,,1.00,1.00,1.00
+NC_000913,"1,299,499",DEL,"Δ1,199 bp",insH21,,insH21,,,1120584,,1.00,1.00,1.00,1.00,
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608201,intergenic (+266/+376),0.24,,,0.54,0.23
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608202,intergenic (+586/+56),1.00,1.00,1.00,1.00,1.00
+NC_000913,"515,859",SNP,C→G,"qmcA, fetA",,PHB domain-containing protein/putative iron ABC exporter ATP-binding subunit FetA,,,1608183,intergenic (‑86/‑60),,,,,1.00
+NC_000913,"4,516,171",SNP,G→C,fecA,,ferric citrate outer membrane transporter,,,1608204,N169K (AAC→AAG),,,,,1.00
+NC_000913,"622,244",MOB,IS5 (–) +4 bp,"fepD, entS",,ferric enterobactin ABC transporter membrane subunit FebD/enterobactin exporter EntS,,,1608207,intergenic (‑55/‑53),1.00,0.33,,0.55,
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,629,042",MOB,IS5 (+) +4 bp,"pdeF, yfgG",,cyclic di-GMP phosphodiesterase PdeF/protein YfgG,,,1608210,intergenic (‑104/‑245),,,,0.54,
+NC_000913,"1,650,461",SNP,C→A,ydfE,,Qin prophage; protein YdfE,,,1608209,pseudogene (384/921 nt),,,,0.39,
+NC_000913,"4,510,928",SNP,A→T,fecE,,ferric citrate ABC transporter ATP binding subunit,,,1608213,L177Q (CTG→CAG),,0.52,,0.64,
+NC_000913,"4,514,119",SNP,C→T,fecB,,ferric citrate ABC transporter periplasmic binding protein,,,1608214,D64N (GAT→AAT),0.56,,,0.32,
+NC_000913,"4,515,480",SNP,C→T,fecA,,ferric citrate outer membrane transporter,,,1608215,G400S (GGC→AGC),1.00,1.00,1.00,1.00,
+NC_000913,"2,866,695",MOB,IS1 (+) +9 bp,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,1608217,coding (849‑857/993 nt),0.50,,,,
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA-5, uspC",,IS1 protein InsA/universal stress protein C,,,1608188,intergenic (‑271/‑264),1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,011,665",SNP,G→T,yedN,,"putative type III secreted effector, N-terminal fragment",,,1608189,pseudogene (687/1129 nt),,,,,1.00
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1608190,pseudogene (917‑918/1358 nt),1.00,1.00,1.00,1.00,1.00

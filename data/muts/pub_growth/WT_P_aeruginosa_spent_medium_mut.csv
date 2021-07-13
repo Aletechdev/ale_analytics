@@ -1,0 +1,19 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,WT_P_aeruginosa_spent_medium A2 F7 I2 R1,WT_P_aeruginosa_spent_medium A2 F7 I3 R1,WT_P_aeruginosa_spent_medium A3 F7 I2 R1,WT_P_aeruginosa_spent_medium A3 F7 I3 R1
+NC_000913,"1,197,502",SNP,C→T,ymfD,,e14 prophage; putative SAM-dependent methyltransferase,,,85186,G11R (GGA→AGA),,1.00,1.00,1.00
+NC_000913,"612,648",SNP,G→T,"fepA, fes",,ferrienterobactin outer membrane transporter/enterobactin/ferrienterobactin esterase,,,80585,intergenic (‑154/‑89),1.00,1.00,,
+NC_000913,"264,098",SNP,G→T,ykfH,,uncharacterized protein,,,90604,L50L (CTC→CTA),1.00,1.00,1.00,1.00
+NC_000913,"2,679,525",SNP,G→T,yphG,,DUF4380 domain-containing TPR repeat protein,,,90605,A1074D (GCT→GAT),1.00,1.00,1.00,1.00
+NC_000913,"2,811,035",SNP,C→T,mprA,,transcriptional repressor of microcin B17 synthesis and multidrug efflux,,,90606,T89M (ACG→ATG),,,1.00,1.00
+NC_000913,"904,638",SNP,G→T,ybjQ,,UPF0145 family protein,,,90611,E16* (GAA→TAA),1.00,,,
+NC_000913,"3,579,678",DEL,"Δ3,750 bp","yhhX,ryhB,yhhY,yhhZ,yrhA",,"yhhX,ryhB,yhhY,yhhZ,yrhA",,,90608,IS1‑mediated,,,1.00,1.00
+NC_000913,"2,810,956",SNP,A→C,mprA,,transcriptional repressor of microcin B17 synthesis and multidrug efflux,,,90609,T63P (ACG→CCG),1.00,1.00,,
+NC_000913,"3,580,295",DEL,"Δ3,133 bp","[yhhX],ryhB,yhhY,yhhZ,yrhA",,"[yhhX],ryhB,yhhY,yhhZ,yrhA",,,90610,IS1‑mediated,,1.00,,
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,37939,intergenic (‑1/+1),1.00,1.00,1.00,1.00
+NC_000913,"4,277,878",SNP,A→G,soxR,,redox-sensitive transcriptional activator of soxS; autorepressor,,,90612,D137G (GAC→GGC),1.00,,,
+NC_000913,"257,908",DEL,Δ776 bp,[crl],,[crl],,,26102,,1.00,1.00,1.00,1.00
+NC_000913,"3,413,571",SNP,T→C,"acrS, acrE",,acrAB operon transcriptional repressor/cytoplasmic membrane lipoprotein,,,90607,intergenic (‑106/‑293),1.00,1.00,1.00,1.00
+NC_000913,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,37945,intergenic (‑2/+1),1.00,1.00,1.00,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,83866,,1.00,1.00,1.00,1.00
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,26191,intergenic (+254/‑485),1.00,,1.00,
+NC_000913,"1,196,220",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,40636,H366H (CAC→CAT),1.00,,,
+NC_000913,"1,196,232",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,40637,T370T (ACC→ACT),1.00,,,

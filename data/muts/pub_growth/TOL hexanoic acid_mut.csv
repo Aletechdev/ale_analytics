@@ -1,0 +1,48 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Details,TOL hexanoic acid A1 F50 I1 R1,TOL hexanoic acid A1 F50 I2 R1,TOL hexanoic acid A1 F50 I3 R1,TOL hexanoic acid A2 F50 I1 R1,TOL hexanoic acid A2 F50 I2 R1,TOL hexanoic acid A2 F50 I3 R1,TOL hexanoic acid A3 F50 I1 R1,TOL hexanoic acid A3 F50 I2 R1,TOL hexanoic acid A3 F50 I3 R1,TOL hexanoic acid A4 F50 I1 R1,TOL hexanoic acid A4 F50 I2 R1,TOL hexanoic acid A4 F50 I3 R1,TOL hexanoic acid A5 F50 I1 R1,TOL hexanoic acid A5 F50 I2 R1,TOL hexanoic acid A5 F50 I3 R1,TOL hexanoic acid A5 F50 I4 R1,TOL hexanoic acid A6 F50 I1 R1,TOL hexanoic acid A7 F50 I1 R1,TOL hexanoic acid A7 F50 I2 R1,TOL hexanoic acid A7 F50 I3 R1
+NC_000913,1744675,DEL,Δ1 bp,mdtK,,multidrug efflux system transporter,,,coding (1219/1374 nt),,,,,,,,,,,,,1,1,1,1,,,,
+NC_000913,3440212,SNP,T→C,rpoA,,"RNA polymerase, alpha subunit",,,E273G (GAA→GGA),,,,,,,,,,,,,1,1,1,1,,,,
+NC_000913,3440937,INS,(CGCTCT)1→2,rpoA,,"RNA polymerase, alpha subunit",,,coding (93/990 nt),,,,,,,,,,,,,1,1,1,1,,,,
+NC_000913,1915353,SNP,A→C,proQ,,"RNA chaperone, putative ProP translation regulator",,,L61* (TTA→TGA),,,,,,,,,,,,1,,,,,,,,
+NC_000913,3440923,SNP,C→T,rpoA,,"RNA polymerase, alpha subunit",,,G36D (GGC→GAC),,,,,,,,,,1,1,1,,,,,1,1,1,1
+NC_000913,3536332,INS,+T,ompR,,response regulator in two-component regulatory system with EnvZ,,,coding (253/720 nt),,,,,,,,,,1,1,1,,,,,,,,
+NC_000913,1293196,MOB,IS5 (+) +4 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑274/‑328),,,,,,,,,,1,1,1,,,,,,,,
+NC_000913,3440212,SNP,T→A,rpoA,,"RNA polymerase, alpha subunit",,,E273V (GAA→GTA),1,1,1,,,1,1,1,1,,,,,,,,,,,
+NC_000913,3440378,SNP,G→T,rpoA,,"RNA polymerase, alpha subunit",,,R218S (CGT→AGT),1,1,1,,,,1,1,1,,,,,,,,,,,
+NC_000913,1744016,DEL,Δ757 bp,mdtK,,multidrug efflux system transporter,,,coding (560‑1316/1374 nt),,,,,,1,,,,,,,,,,,,,,
+NC_000913,3440929,SNP,C→A,rpoA,,"RNA polymerase, alpha subunit",,,G34V (GGC→GTC),,,,,,1,,,,,,,,,,,,,,
+NC_000913,99891,SNP,C→T,murG,,N-acetylglucosaminyl transferase,,,A83V (GCC→GTC),,,,,,,,,,,,,,,,,,1,1,1
+NC_000913,771306,MOB,IS5 (–) +4 bp,"mngB, cydA",,"alpha-mannosidase/cytochrome d terminal oxidase, subunit I",,,intergenic (+695/‑149),,,,,,,,,,,,,,,,,,,1,
+NC_000913,1354761,SNP,G→T,sapB,,antimicrobial peptide transport ABC transporter permease,,,A237E (GCG→GAG),,,,,,,,,,,,,,,,,,1,1,1
+NC_000913,2025248,INS,+TC,dsrA,,"sRNA antisense regulator enhances translation of RpoS, Hfq-dependent",,,noncoding (66/87 nt),,,,,,,,,,,,,,,,,,1,1,1
+NC_000913,2312877,MOB,IS5 (+) +4 bp,"ompC, micF",,"outer membrane porin protein C/sRNA antisense regulator affecting ompF expression, Hfq-dependent",,,intergenic (‑128/‑204),,,,,,,,,,,,,,,,,,1,1,1
+NC_000913,2360829,SNP,C→A,rhmD,,L-rhamnonate dehydratase,,,D196Y (GAT→TAT),,,,,,,,,,,,,,,1,,,,,
+NC_000913,353944,SNP,T→A,prpE,,propionate--CoA ligase,,,G413G (GGT→GGA),,,,1,1,,,,,,,,,,,,,,,
+NC_000913,1743611,SNP,C→A,mdtK,,multidrug efflux system transporter,,,S52Y (TCT→TAT),,,,1,1,,,,,,,,,,,,,,,
+NC_000913,3536285,DEL,Δ1 bp,ompR,,response regulator in two-component regulatory system with EnvZ,,,coding (300/720 nt),,,,1,1,,,,,,,,,,,,,,,
+NC_000913,4187619,SNP,C→T,rpoC,,"RNA polymerase, beta prime subunit",,,T757M (ACG→ATG),,,,,,,,,,,,,,,,,,,,1
+NC_000913,1756622,SNP,G→A,pykF,,pyruvate kinase I,,,V309M (GTG→ATG),,,,1,,,,,,,,,,,,,,,,
+NC_000913,1356317,SNP,C→T,sapA,,antimicrobial peptide transport ABC transporter periplasmic binding protein,,,G265E (GGG→GAG),,,,,,,1,,,,,,,,,,,,,
+NC_000913,1743880,MOB,IS1 (–) +9 bp,mdtK,,multidrug efflux system transporter,,,coding (424‑432/1374 nt),,,,,,,1,1,1,,,,,,,,,,,
+NC_000913,2764096,SNP,A→T,yfjL,,"CP4-57 putative defective prophage, DUF4297/DUF1837 polymorphic toxin family protein",,,I353N (ATC→AAC),,,,,,,1,1,1,,,,,,,,,,,
+NC_000913,1564102,SNP,T→G,dosP,,"oxygen sensor, c-di-GMP phosphodiesterase, heme-regulated, cold- and stationary phase-induced bioflim regulator",,,L544F (TTA→TTC),,,,,,,,,,,1,,,,,,,,,
+NC_000913,1915293,DEL,Δ5 bp,proQ,,"RNA chaperone, putative ProP translation regulator",,,coding (238‑242/699 nt),,,,,,,,,,1,1,,,,,,,,,
+NC_000913,771258,MOB,IS5 (–) +4 bp,"mngB, cydA",,"alpha-mannosidase/cytochrome d terminal oxidase, subunit I",,,intergenic (+647/‑197),,,,,,,,,,,,,,,,,,1,,
+NC_000913,2916392,DEL,Δ12 bp,barA,,"hybrid sensory histidine kinase, in two-component regulatory system with UvrY",,,coding (1336‑1347/2757 nt),,,,,,,,,,,,,,,,,,1,,
+NC_000913,1112435,DEL,(CCGCT)2→1,opgH,,"OPG biosynthetic ACP-dependent transmembrane UDP-glucose beta-1,2 glycosyltransferase, nutrient-dependent cell size regulator, FtsZ assembly antagonist",,,coding (1573‑1577/2544 nt),,1,,,,,,,,,,,,,,,,,,
+NC_000913,563324,MOB,IS1 (–) +9 bp,[sfmF],,[sfmF],,,,,,,,,,,,,,,,,,,,1,,,
+NC_000913,668970,DEL,Δ1 bp,rsfS,,ribosomal silencing factor,,,coding (67/318 nt),,,,,,,,,,,,,,,,,1,,,
+NC_000913,2312877,MOB,IS5 (–) +4 bp,"ompC, micF",,"outer membrane porin protein C/sRNA antisense regulator affecting ompF expression, Hfq-dependent",,,intergenic (‑128/‑204),,,,,,,,,,,,,,,,,1,,,
+NC_000913,2481325,SNP,C→A,emrY,,putative multidrug efflux system,,,A284A (GCG→GCT),,,,,,,,,,,,,,,,,1,,,
+NC_000913,4182358,SNP,C→T,rpoB,,"RNA polymerase, beta subunit",,,P372S (CCT→TCT),,,,,,,,,,,,,,,,,1,,,
+NC_000913,2957831,MOB,IS5 (–) +4 bp,ptrA,,protease III,,,coding (1051‑1054/2889 nt),1,,,,,,,,,,,,,,,,,,,
+NC_000913,542938,MOB,IS5 (+) +4 bp,glxK,,glycerate kinase II,,,coding (1051‑1054/1146 nt),,,,,,,,,,1,,,,,,,,,,
+NC_000913,1978503,DEL,Δ776 bp,"insB1, insA",,"insB1, insA",,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NC_000913,1299499,DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),,,,,,,,1,,,,,,,,1,,1,,1
+NC_000913,4296381,INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NC_000913,809340,SNP,C→G,"bioA, bioB",,"7,8-diaminopelargonic acid synthase, PLP-dependent/biotin synthase",,,intergenic (‑83/‑4),1,1,1,,,,,,,,,,,,,,,,,
+NC_000913,4185540,SNP,C→T,rpoC,,"RNA polymerase, beta prime subunit",,,P64L (CCG→CTG),1,1,1,,,,1,1,1,,,,,,,,,,,
+NC_000913,1293124,MOB,IS5 (+) +4 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑202/‑400),,,,,,,,,,,,,,,,,1,,,
+NC_000913,257908,DEL,Δ776 bp,[crl],,[crl],,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NC_000913,2173363,DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS,transport, Transport of small molecules: Carbohydrates, organic acids, alcohols, PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NC_000913,3560455,INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor,regulator, Energy metabolism, carbon: Anaerobic respiration, repressor of the glp operon",,,intergenic (‑2/+1),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NC_000913,1354687,SNP,C→A,sapB,,antimicrobial peptide transport ABC transporter permease,,,V262F (GTT→TTT),1,1,1,,,,,,,,,,1,,1,1,,,,

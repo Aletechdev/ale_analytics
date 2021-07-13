@@ -1,0 +1,20 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,pgiVCH A30 F19 I2 R1,pgiVCH A30 F43 I1 R1,pgiVCH A31 F19 I2 R1,pgiVCH A31 F47 I1 R1,pgiVCH A32 F19 I2 R1,pgiVCH A32 F46 I1 R1
+NC_000913_3_vch_pgi,"1,529,203",SNP,C→A,rhsE,,"pseudogene, Rhs family",,,120064,pseudogene (1302/2037 nt),1.00,,,,,
+NC_000913_3_vch_pgi,"1,904,693",SNP,G→T,manZ,,mannose-specific enzyme IID component of PTS,,,120065,G267C (GGC→TGC),1.00,,,,,
+NC_000913_3_vch_pgi,"4,187,214",SNP,A→C,rpoC,,"RNA polymerase, beta prime subunit",,,120066,D622A (GAC→GCC),1.00,,,,,
+NC_000913_3_vch_pgi,"4,343,923",SNP,G→A,melB,,melibiose:sodium symporter,,,120067,L184L (CTG→CTA),1.00,,,,,
+NC_000913_3_vch_pgi,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,120068,,,,1.00,,,
+NC_000913_3_vch_pgi,"3,316,730",SNP,A→C,nusA,,transcription termination/antitermination L factor,,,120069,L266R (CTG→CGG),,,,,1.00,
+NC_000913_3_vch_pgi,"257,908",DEL,Δ776 bp,[crl],,[crl],,,120051,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_vch_pgi,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,120052,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_vch_pgi,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,120053,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_vch_pgi,"2,393,422",DEL,Δ13 bp,nuoL,,"NADH:ubiquinone oxidoreductase, membrane subunit L",,,120054,coding (1613‑1625/1842 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_vch_pgi,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,120055,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_vch_pgi,"4,183,379",SNP,C→T,rpoB,,"RNA polymerase, beta subunit",,,120056,S712F (TCC→TTC),,,,,,1.00
+NC_000913_3_vch_pgi,"4,296,384",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,120057,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_vch_pgi,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,120058,intergenic (+254/‑485),1.00,1.00,,1.00,,
+NC_000913_3_vch_pgi,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,120059,pseudogene (1317/2037 nt),1.00,1.00,1.00,1.00,1.00,
+NC_000913_3_vch_pgi,"4,188,953",SNP,G→A,rpoC,,"RNA polymerase, beta prime subunit",,,120060,E1202K (GAA→AAA),,,,1.00,,
+NC_000913_3_vch_pgi,"1,503,354",SNP,C→T,insP,,"pseudogene, IS609 transposase A;IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related",,,120061,pseudogene (296/432 nt),1.00,1.00,,,,
+NC_000913_3_vch_pgi,"3,442,845",SNP,G→A,secY,,preprotein translocase membrane subunit,,,120062,A418V (GCT→GTT),,1.00,,,,
+NC_000913_3_vch_pgi,"3,815,812",SNP,G→T,"pyrE, rph",,orotate phosphoribosyltransferase/ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,120063,intergenic (‑44/+22),,1.00,,,,

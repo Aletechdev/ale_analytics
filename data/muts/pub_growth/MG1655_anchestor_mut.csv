@@ -1,0 +1,8 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655_anchestor A0 F0 I1 R1
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00
+NC_000913,"4,390,754",SNP,G→T,rsgA,,ribosome small subunit-dependent GTPase A,,,1608306,A252A (GCC→GCA),1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1120681,pseudogene (915‑916/1358 nt),1.00
+NC_000913,"803,662",SNP,C→A,ybhJ,,putative hydratase YbhJ,,,1608301,L54I (CTT→ATT),1.00
+NC_000913,"1,905,761",SNP,G→A,mntP,,Mn(2(+)) exporter,,,1608303,G25D (GGT→GAT),1.00

@@ -1,0 +1,49 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,pgiPAE A0 F0 I1 R1,pgiPAE A9 F8 I1 R1,pgiPAE A9 F18 I1 R1,pgiPAE A9 F30 I1 R1,pgiPAE A10 F8 I1 R1,pgiPAE A10 F12 I1 R1,pgiPAE A10 F18 I1 R1,pgiPAE A10 F30 I1 R1,pgiPAE A11 F8 I1 R1,pgiPAE A11 F12 I1 R1,pgiPAE A11 F18 I1 R1,pgiPAE A12 F11 I2 R1,pgiPAE A12 F16 I1 R1,pgiPAE A12 F27 I1 R1,pgiPAE A24 F8 I1 R1,pgiPAE A24 F19 I1 R1,pgiPAE A24 F54 I1 R1,pgiPAE A24 F90 I1 R1,pgiPAE A25 F8 I1 R1,pgiPAE A25 F20 I1 R1,pgiPAE A25 F51 I1 R1,pgiPAE A25 F92 I1 R1,pgiPAE A29 F9 I1 R1,pgiPAE A29 F23 I1 R1,pgiPAE A29 F59 I1 R1,pgiPAE A29 F91 I1 R1
+NC_000913_3_pae_pgi,"257,908",DEL,Δ776 bp,[crl],,[crl],,,119594,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"1,529,185",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,119595,pseudogene (1284/2037 nt),,,1.00,1.00,1.00,,,,,,1.00,,,,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,,1.00
+NC_000913_3_pae_pgi,"1,529,203",SNP,C→A,rhsE,,"pseudogene, Rhs family",,,119596,pseudogene (1302/2037 nt),,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00
+NC_000913_3_pae_pgi,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,119597,pseudogene (1317/2037 nt),,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00
+NC_000913_3_pae_pgi,"1,731,621",SNP,G→T,lhr,,putative ATP-dependent helicase,,,119598,M845I (ATG→ATT),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,119599,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,119600,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"3,214,770",SNP,A→C,rpoD,,"RNA polymerase, sigma 70 (sigma D) factor",,,119601,E575A (GAA→GCA),,,,,1.00,,,,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,119602,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"4,234,667",DEL,Δ1 bp,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119603,intergenic (‑1434/‑499),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"4,295,641",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,119604,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"3,440,087",DEL,Δ2 bp,rpoA,,"RNA polymerase, alpha subunit",,,119605,coding (942‑943/990 nt),,,,,,,,,,,,1.00,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"3,279,656",SNP,G→T,kbaZ,,"tagatose 6-phosphate aldolase 1, kbaZ subunit",,,119606,S248I (AGC→ATC),,,,,,,,,,,,,,,,,,,,,,1.00,,,,
+NC_000913_3_pae_pgi,"3,440,173",SNP,T→C,rpoA,,"RNA polymerase, alpha subunit",,,119607,E286G (GAG→GGG),,,,,,,,,,,,,,,,,,,,1.00,1.00,1.00,,,,
+NC_000913_3_pae_pgi,"3,440,243",SNP,T→G,rpoA,,"RNA polymerase, alpha subunit",,,119608,T263P (ACT→CCT),,,,,,,,,,,,,,,,,,,,1.00,1.00,1.00,,,,
+NC_000913_3_pae_pgi,"4,159,090",SNP,C→T,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,119609,R201C (CGC→TGC),,,,,,,,,,,,,,,,,,,,,,1.00,,,,
+NC_000913_3_pae_pgi,"4,399,691",SNP,C→A,hfq,,"global sRNA chaperone; HF-I, host factor for RNA phage Q beta replication",,,119610,N48K (AAC→AAA),,,,,,,,,,,,,,,,,,,,,1.00,1.00,,,,
+NC_000913_3_pae_pgi,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,119611,intergenic (+254/‑485),,,,,,1.00,,,,,,,1.00,1.00,,,,,,,,,,,1.00,
+NC_000913_3_pae_pgi,"2,534,871",SNP,T→C,ptsI,,PEP-protein phosphotransferase of PTS system (enzyme I),,,119612,V269A (GTA→GCA),,,,,,,,,,,,,1.00,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"4,015,535",DEL,Δ1 bp,ysgA,,putative carboxymethylenebutenolidase,,,119613,coding (635/816 nt),,,,,,,,,,,,,1.00,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"1,656,008",DEL,Δ1 bp,ynfB,,UPF0482 family putative periplasmic protein,,,119614,coding (201/342 nt),,,,1.00,,,,,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"3,354,297",SNP,G→T,"yhcC, gltB",,"putative Fe-S oxidoreductase, Radical SAM superfamily protein/glutamate synthase, large subunit",,,119615,intergenic (‑247/‑428),,,1.00,1.00,,,,,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"3,440,077",DEL,Δ11 bp,rpoA,,"RNA polymerase, alpha subunit",,,119616,coding (943‑953/990 nt),,1.00,1.00,1.00,,,,,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"4,399,663",SNP,T→G,hfq,,"global sRNA chaperone; HF-I, host factor for RNA phage Q beta replication",,,119617,F39C (TTT→TGT),,,1.00,1.00,,,,,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"1,529,180",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,119618,pseudogene (1279/2037 nt),,,,,,,,,,,,,,,,1.00,,,,1.00,,,1.00,1.00,,
+NC_000913_3_pae_pgi,"3,440,176",SNP,G→A,rpoA,,"RNA polymerase, alpha subunit",,,119619,T285I (ACC→ATC),,,,,,,1.00,1.00,,,,,,,,,,,,,,,1.00,1.00,1.00,1.00
+NC_000913_3_pae_pgi,"1,159,034",INS,(CGGGTCGTGAAGACGC)1→2,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119620,coding (1166/1434 nt),,,,,,,,,,,,,,,1.00,,,,,,,,,,,
+NC_000913_3_pae_pgi,"3,440,243",SNP,T→C,rpoA,,"RNA polymerase, alpha subunit",,,119621,T263A (ACT→GCT),,,,,,,,,,1.00,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"1,529,175",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,119622,pseudogene (1274/2037 nt),,,,,,,,,,,,,,,,1.00,,,,1.00,,,,,,
+NC_000913_3_pae_pgi,"4,015,435",DEL,Δ1 bp,ysgA,,putative carboxymethylenebutenolidase,,,119623,coding (735/816 nt),,,,,,,1.00,,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"202,398",SNP,C→T,fabZ,,(3R)-hydroxymyristol acyl carrier protein dehydratase,,,119624,R100C (CGC→TGC),,,,,,,,,,,,,,,,,,,,,,,,,1.00,1.00
+NC_000913_3_pae_pgi,"1,398,976",SNP,C→A,fnr,,oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor,,,119625,R184L (CGC→CTC),,,,,,,,,,,,,,,,,,,,,,,,,,1.00
+NC_000913_3_pae_pgi,"1,678,015",DEL,Δ73 bp,"pntA, ydgH",,"pyridine nucleotide transhydrogenase, alpha subunit/DUF1471 family periplasmic protein",,,119626,intergenic (‑112/‑340),,,,,,,,,,,,,,,,,,,,,,,,,1.00,1.00
+NC_000913_3_pae_pgi,"2,867,401",DEL,Δ1 bp,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,119627,coding (151/993 nt),,,,,,,,,,,,,,,,,,,,,,,,,1.00,1.00
+NC_000913_3_pae_pgi,"4,160,733",SNP,C→T,sthA,,"pyridine nucleotide transhydrogenase, soluble",,,119628,G20S (GGC→AGC),,,,,,,,,,,1.00,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"4,185,645",SNP,G→C,rpoC,,"RNA polymerase, beta prime subunit",,,119629,R99P (CGT→CCT),,,,,,,,,,,1.00,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"1,195,136",SNP,T→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,119630,V5G (GTA→GGA),,,,,,,,,,,,,,1.00,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"3,440,211",SNP,T→G,rpoA,,"RNA polymerase, alpha subunit",,,119631,E273D (GAA→GAC),,,,,,,,,,,,,,1.00,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"1,399,449",SNP,G→T,fnr,,oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor,,,119632,S26R (AGC→AGA),,,,,,,,,,,,,,,,,1.00,1.00,,,,,,,,
+NC_000913_3_pae_pgi,"1,677,492",DEL,Δ1 bp,pntA,,"pyridine nucleotide transhydrogenase, alpha subunit",,,119633,coding (412/1533 nt),,,,,,,,,,,,,,,,,1.00,1.00,,,,,,,,
+NC_000913_3_pae_pgi,"2,867,340",SNP,A→C,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,119634,L71* (TTA→TGA),,,,,,,,,,,,,,,,1.00,1.00,1.00,,,,,,,,
+NC_000913_3_pae_pgi,"3,440,924",SNP,C→A,rpoA,,"RNA polymerase, alpha subunit",,,119635,G36C (GGC→TGC),,,,,,,,,,,,,,,,,,1.00,,,,,,,,
+NC_000913_3_pae_pgi,"3,486,599",SNP,C→A,crp,,"cAMP-activated global transcription factor, mediator of catabolite repression",,,119636,H160Q (CAC→CAA),,,,,,,,,,,,,,,,1.00,1.00,1.00,,,,,,,,
+NC_000913_3_pae_pgi,"4,153,200",SNP,G→A,"ppc, argE",,phosphoenolpyruvate carboxylase/acetylornithine deacetylase,,,119637,intergenic (‑102/+496),,,,,,,,,1.00,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"1,159,282",SNP,G→T,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,119638,E472* (GAG→TAG),,,,,,,,,,,,,,,,,,,1.00,,,,,,,
+NC_000913_3_pae_pgi,"2,867,260",SNP,T→G,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,119639,N98H (AAC→CAC),,,,,,,,,,,,,,,,,,,,,,,,1.00,,
+NC_000913_3_pae_pgi,"2,866,773",DEL,Δ2 bp,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,119640,coding (778‑779/993 nt),,,,,,,,1.00,,,,,,,,,,,,,,,,,,
+NC_000913_3_pae_pgi,"4,186,086",SNP,C→T,rpoC,,"RNA polymerase, beta prime subunit",,,119641,P246L (CCG→CTG),,,,,,1.00,,,,,,,,,,,,,,,,,,,,

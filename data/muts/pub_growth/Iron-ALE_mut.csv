@@ -1,0 +1,19 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Details,Iron-ALE A17 F45 I1 R1,Iron-ALE A18 F39 I1 R1,Iron-ALE A19 F39 I1 R1,Iron-ALE A20 F40 I1 R1
+NC_000913,331806,SNP,G→A,"betT, yahA",,choline transporter of high affinity/c-di-GMP-specific phosphodiesterase,,,intergenic (+310/‑565),,,1,
+NC_000913,1531875,SNP,G→A,ydcC,,H repeat-associated putative transposase,,,W20* (TGG→TGA),,,1,
+NC_000913,2067837,SNP,G→T,yoeG,,"pseudogene, CP4-44 putative prophage remnant;Phage or Prophage Related",,,pseudogene (56/435 nt),,1,1,
+NC_000913,2152433,SNP,A→G,yegK,,ser/thr phosphatase-related protein,,,S14P (TCG→CCG),,,1,
+NC_000913,4158809,SNP,C→T,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,P107L (CCG→CTG),,,1,
+NC_000913,4159126,SNP,G→C,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,A213P (GCG→CCG),1,,,
+NC_000913,4159112,SNP,G→A,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,C208Y (TGT→TAT),,1,,
+NC_000913,3458110,SNP,C→A,gspD,,"general secretory pathway component, cryptic",,,T578T (ACC→ACA),,,,1
+NC_000913,3482325,SNP,G→A,yheS,,ABC-F family protein predicted regulatory ATPase,,,R346H (CGC→CAC),,,,1
+NC_000913,4158827,SNP,T→A,oxyR,,oxidative and nitrosative stress transcriptional regulator,,,L113Q (CTG→CAG),,,,1
+NC_000913,4473927,SNP,C→A,bdcA,,c-di-GMP-binding biofilm dispersal mediator protein,,,A43S (GCC→TCC),,,,1
+NC_000913,3815859,DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,,,1,1,1
+NC_000913,1979486,MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,intergenic (‑271/‑264),1,1,1,1
+NC_000913,2173363,DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,intergenic (‑1/+1),1,1,1,1
+NC_000913,257908,DEL,Δ776 bp,[crl],,[crl],,,,1,,1,1
+NC_000913,3560455,INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,intergenic (‑2/+1),1,1,1,1
+NC_000913,1978503,DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,,1,1,1,1
+NC_000913,4296381,INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,intergenic (+587/+55),1,1,1,1

@@ -1,0 +1,18 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655_untreated A1 F16 I0 R1,MG1655_untreated A2 F16 I0 R1,MG1655_untreated A3 F16 I0 R1,MG1655_untreated A4 F16 I0 R1,MG1655_untreated A5 F16 I0 R1,MG1655_untreated A6 F16 I0 R1
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,299,499",DEL,"Δ1,199 bp",insH21,,insH21,,,1120584,,,1.00,,,,
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608201,intergenic (+266/+376),0.29,0.29,0.30,0.31,0.25,0.35
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate : H(+) symporter GltP/Sel1 repeat-containing protein YjcO,,,1608202,intergenic (+586/+56),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,867,169",SNP,A→T,rpoS,,"RNA polymerase, sigma S (sigma 38) factor",,,1608402,I128N (ATC→AAC),,,,,,0.40
+NC_000913,"4,542,223",MOB,IS1 (–) +9 bp,fimE,,regulator for fimA,,,1608477,coding (187‑195/597 nt),,,,,0.61,
+NC_000913,"1,397,381",DEL,"Δ13,756 bp","[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,"[ynaJ],uspE,fnr,ogt,abgT,abgB,abgA,abgR,mcaS,smrA,dgcM,zntB,fnrS,ynaL,dbpA,[ttcA]",,,1608368,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,542,191",SNP,A→C,fimE,,regulator for fimA,,,1608466,D52A (GAC→GCC),,,0.49,,,
+NC_000913,"4,542,298",MOB,IS1 (+) +8 bp,fimE,,regulator for fimA,,,1608467,coding (262‑269/597 nt),,,0.33,,,
+NC_000913,"4,542,020",MOB,IS5 (–) +4 bp,"fimB, fimE",,regulator for fimA/regulator for fimA,,,1608468,intergenic (+461/‑14),,,,0.66,,
+NC_000913,"4,542,456",MOB,IS1 (+) +9 bp,fimE,,regulator for fimA,,,1608472,coding (420‑428/597 nt),,0.22,,,,
+NC_000913,"4,542,831",MOB,IS5 (+) +4 bp,"fimE, fimA",,regulator for fimA/type 1 fimbriae major subunit,,,1608473,intergenic (+198/‑281),,0.21,,,,
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,542,237",MOB,IS1 (+) +9 bp,fimE,,regulator for fimA,,,1608475,coding (201‑209/597 nt),0.61,,,,,
+NC_000913,"4,542,161",MOB,IS5 (–) +4 bp,fimE,,regulator for fimA,,,1608413,coding (125‑128/597 nt),,,,,0.23,
+NC_000913,"2,173,361",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1608190,pseudogene (917‑918/1358 nt),1.00,1.00,1.00,1.00,1.00,1.00

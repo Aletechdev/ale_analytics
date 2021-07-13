@@ -1,0 +1,45 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,pts A0 F0 I1 R1,pts A9 F131 I0 R1,pts A9 F131 I1 R1,pts A9 F131 I2 R1,pts A10 F135 I0 R1,pts A10 F135 I1 R1,pts A10 F135 I2 R1,pts A11 F138 I0 R1,pts A11 F138 I1 R1,pts A11 F138 I2 R1,pts A12 F142 I0 R1,pts A12 F142 I1 R1,pts A12 F142 I2 R1
+NC_000913,"3,769,666",DEL,Δ1 bp,yibV,,"pseudogene, putative cryptic Rhs immunity protein",,,1566596,pseudogene (322/327 nt),,,,,,,,,,,1.00,,
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103622,intergenic (+586/+56),,1.00,,,1.00,,,1.00,,,1.00,,
+NC_000913,"3,992,524",DEL,(CGGGC)2→1,cyaA,,adenylate cyclase,,,1566599,coding (1372‑1376/2547 nt),,,1.00,1.00,,,,,,,,,
+NC_000913,"4,103,656",DEL,Δ1 bp,cpxA,,sensory histidine kinase in two-component regulatory system with CpxR,,,1566600,coding (1320/1374 nt),,,1.00,1.00,,,,,,,,,
+NC_000913,"2,509,471",SNP,G→A,"glk, yfeO",,glucokinase/putative ion channel protein,,,1566569,intergenic (‑45/‑159),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"2,023,796",DEL,Δ5 bp,"fliR, rcsA",,flagellar export pore protein/transcriptional regulator of colanic acid capsular biosynthesis,,,1566603,intergenic (+118/‑168),,,,,,,,0.68,,,,,
+NC_000913,"4,186,262",SNP,G→A,rpoC,,"RNA polymerase, beta prime subunit",,,1566607,A305T (GCC→ACC),,,,,,,,0.34,,,,,
+NC_000913,"3,992,517",DEL,Δ5 bp,cyaA,,adenylate cyclase,,,1118352,coding (1365‑1369/2547 nt),,1.00,,,,,,,,,,,
+NC_000913,"700,948",SNP,A→C,nagC,,N-acetylglucosamine-inducible nag divergent operon transcriptional repressor,,,677266,I216S (ATT→AGT),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"4,001,645",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,1112479,coding (220‑224/951 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,184,543",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,1112480,P1100Q (CCG→CAG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,023,805",DEL,(CTTTA)2→1,"fliR, rcsA",,flagellar export pore protein/transcriptional regulator of colanic acid capsular biosynthesis,,,800934,intergenic (+127/‑159),,,,,,,,,1.00,1.00,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,1102505,,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,1102506,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,316,393",SNP,T→C,rcsB,,response regulator in two-component regulatory system with RcsC and YojN,,,1566578,Y73H (TAC→CAC),,1.00,1.00,1.00,,,,,,,,,
+NC_000913,"2,316,760",SNP,T→C,rcsB,,response regulator in two-component regulatory system with RcsC and YojN,,,1566579,V195A (GTC→GCC),,1.00,1.00,1.00,,,,,,,,,
+NC_000913,"4,296,268",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1105334,intergenic (+474/+168),,0.25,,,0.23,,,,,,,,
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,566843,intergenic (‑1/+1),1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,644028,intergenic (+587/+55),1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00
+NC_000913,"67,890",INS,+TG,araA,,L-arabinose isomerase,,,801086,coding (448/1503 nt),,,,,,,,,1.00,,,,
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),1.00,,,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,527,658",DEL,Δ5 bp,yrfF,,"putative RcsCDB-response attenuator, inner membrane protein",,,1566583,coding (1190‑1194/2136 nt),,1.00,1.00,1.00,,,,,,,,,
+NC_000913,"4,296,190",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1120334,intergenic (+396/+246),,0.24,,,0.28,,,,,,,,
+NC_000913,"4,296,191",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1120335,intergenic (+397/+245),,0.24,,,0.28,,,,,,0.22,,
+NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,673244,intergenic (‑271/‑264),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,770909,I204S (ATC→AGC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,024,155",MOB,IS5 (+) +4 bp,rcsA,,transcriptional regulator of colanic acid capsular biosynthesis,,,1566563,coding (188‑191/624 nt),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"2,262,025",MOB,Δ2 bp :: IS186 (+) +7 bp :: Δ1 bp,fruK,,fructose-1-phosphate kinase,,,1566564,coding (335‑341/939 nt),,,,,,1.00,,,,,,,
+NC_000913,"2,509,497",SNP,C→G,"glk, yfeO",,glucokinase/putative ion channel protein,,,1566565,intergenic (‑71/‑133),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"3,088,095",SNP,T→A,"metK, galP",,S-adenosylmethionine synthetase/D-galactose transporter,,,1566566,intergenic (+235/‑189),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"3,526,449",MOB,IS5 (+) +4 bp,"nudE, yrfF",,"adenosine nucleotide hydrolase; Ap3A/Ap2A/ADP-ribose/NADH hydrolase/putative RcsCDB-response attenuator, inner membrane protein",,,1566567,intergenic (‑300/‑17),,,,,1.00,1.00,1.00,,,,1.00,1.00,1.00
+NC_000913,"2,313,540",MOB,Δ2 bp :: IS186 (+) +6 bp,rcsD,,phosphotransfer intermediate protein in two-component regulatory system with RcsBC,,,1566568,coding (53‑58/2673 nt),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"1,598,904",SNP,T→C,lsrK,,autoinducer-2 (AI-2) kinase,,,801001,S436G (AGT→GGT),,0.56,,,,,,,,,,,
+NC_000913,"2,977,580",SNP,T→G,galR,,galactose-inducible d-galactose regulon transcriptional repressor; autorepressor,,,1566570,S328A (TCA→GCA),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"3,769,673",DEL,(A)8→7,yibV,,"pseudogene, putative cryptic Rhs immunity protein",,,1566571,pseudogene (1/111 nt),,,,,,,,,,,,1.00,1.00
+NC_000913,"3,267,597",SNP,A→G,tdcR,,L-threonine dehydratase operon activator protein,,,1566572,*73* (TAA→TGA),,,,,,,,,,,,1.00,
+NC_000913,"2,316,681",SNP,A→G,rcsB,,response regulator in two-component regulatory system with RcsC and YojN,,,1566573,T169A (ACC→GCC),,,,,,,,1.00,1.00,1.00,,,
+NC_000913,"3,527,591",SNP,C→T,yrfF,,"putative RcsCDB-response attenuator, inner membrane protein",,,1566574,Q375* (CAG→TAG),,,,,,,,1.00,1.00,1.00,,,
+NC_000913,"67,887",INS,+G,araA,,L-arabinose isomerase,,,801266,coding (451/1503 nt),,,,,,,,0.72,,,,,
+NC_000913,"67,887",INS,+T,araA,,L-arabinose isomerase,,,801267,coding (451/1503 nt),,,,,,,,0.72,,,,,
+NC_000913,"3,308,104",SNP,G→A,nlpI,,lipoprotein involved in osmotic sensitivity and filamentation,,,1566582,A274V (GCA→GTA),,0.88,1.00,1.00,,,,,,,,,
+NC_000913,"3,992,705",MOB,IS5 (+) +4 bp,cyaA,,adenylate cyclase,,,1103863,coding (1553‑1556/2547 nt),,,,,,,,1.00,1.00,1.00,,,
+NC_000913,"4,103,654",DEL,Δ1 bp,cpxA,,sensory histidine kinase in two-component regulatory system with CpxR,,,1566586,coding (1322/1374 nt),,1.00,,,,,,,,,,,
+NC_000913,"2,967,533",SNP,A→G,ptsP,,PEP-protein phosphotransferase enzyme I; GAF domain containing protein,,,1566588,L301P (CTG→CCG),,,,,,,,,1.00,,,,

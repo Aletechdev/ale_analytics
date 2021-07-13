@@ -1,0 +1,46 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,pgiHSA A0 F0 I1 R1,pgiHSA A12 F11 I1 R1,pgiHSA A12 F95 I1 R1,pgiHSA A14 F68 I1 R1,pgiHSA A16 F77 I1 R1,pgiHSA A17 F39 I1 R1,pgiHSA A17 F83 I1 R1,pgiHSA A19 F9 I0 R1,pgiHSA A20 F14 I1 R1,pgiHSA A20 F20 I1 R1,pgiHSA A20 F30 I1 R1,pgiHSA A20 F47 I0 R1,pgiHSA A20 F47 I1 R1
+NC_000913_3_hsa_pgi,"3,440,084",INS,+G,rpoA,,"RNA polymerase, alpha subunit",,,119552,coding (946/990 nt),,,,,,,,0.65,,,,,
+NC_000913_3_hsa_pgi,"1,195,445",SNP,G→A,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,119554,G108D (GGT→GAT),,,,1.00,,,,,,,,,
+NC_000913_3_hsa_pgi,"3,397,306",SNP,C→A,rng,,ribonuclease G,,,119555,E164* (GAG→TAG),,,,1.00,,,,,,,,,
+NC_000913_3_hsa_pgi,"3,578,650",SNP,A→C,gntR,,d-gluconate inducible gluconate regulon transcriptional repressor,,,119556,L26* (TTA→TGA),,,,1.00,,,,,,,,,
+NC_000913_3_hsa_pgi,"3,815,824",SNP,G→T,"pyrE, rph",,orotate phosphoribosyltransferase/ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,119557,intergenic (‑56/+10),,,,1.00,,,,,,,,,
+NC_000913_3_hsa_pgi,"4,233,746",SNP,A→G,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119558,intergenic (‑513/‑2188),,,,,,,,,,,,,1.00
+NC_000913_3_hsa_pgi,"257,908",DEL,Δ776 bp,[crl],,[crl],,,119487,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_hsa_pgi,"1,265,007",SNP,C→T,"hemA, prfA",,glutamyl tRNA reductase/peptide chain release factor RF-1,,,119488,intergenic (+37/‑5),,,1.00,,,,,,,,,,
+NC_000913_3_hsa_pgi,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,119489,intergenic (+254/‑485),,,1.00,,,,,,,,,,
+NC_000913_3_hsa_pgi,"1,529,185",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,119490,pseudogene (1284/2037 nt),,1.00,1.00,,1.00,1.00,1.00,,,1.00,1.00,,1.00
+NC_000913_3_hsa_pgi,"1,529,203",SNP,C→A,rhsE,,"pseudogene, Rhs family",,,119491,pseudogene (1302/2037 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_hsa_pgi,"1,529,218",SNP,C→T,rhsE,,"pseudogene, Rhs family",,,119492,pseudogene (1317/2037 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_hsa_pgi,"1,933,245",SNP,G→A,edd,,6-phosphogluconate dehydratase,,,119493,Q454* (CAG→TAG),,,1.00,,,,,,,,,,
+NC_000913_3_hsa_pgi,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,119494,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_hsa_pgi,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,119495,intergenic (‑1/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00
+NC_000913_3_hsa_pgi,"3,560,455",INS,+G,"glpR, glpR",,"pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon/pseudogene, DNA-binding transcriptional repressor;regulator; Energy metabolism, carbon: Anaerobic respiration; repressor of the glp operon",,,119496,intergenic (‑2/+1),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913_3_hsa_pgi,"3,823,987",SNP,G→T,spoT,,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",,,119497,G530C (GGT→TGT),,,1.00,,,,,,,,,,
+NC_000913_3_hsa_pgi,"3,993,001",DEL,Δ6 bp,cyaA,,adenylate cyclase,,,119498,coding (1849‑1854/2547 nt),,,1.00,,,,,,,,,,
+NC_000913_3_hsa_pgi,"4,235,435",DEL,Δ1 bp,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119499,intergenic (‑2202/‑499),1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00
+NC_000913_3_hsa_pgi,"4,296,409",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,119500,intergenic (+587/+55),1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,,1.00
+NC_000913_3_hsa_pgi,"1,507,116",SNP,A→G,ydcP,,putative peptidase,,,119501,E112E (GAA→GAG),,,,,,1.00,1.00,,,,,,
+NC_000913_3_hsa_pgi,"1,529,180",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,119502,pseudogene (1279/2037 nt),,1.00,,,1.00,1.00,1.00,,,,,,
+NC_000913_3_hsa_pgi,"3,440,086",SNP,C→A,rpoA,,"RNA polymerase, alpha subunit",,,119503,G315V (GGC→GTC),,,,,,1.00,1.00,,,,,,
+NC_000913_3_hsa_pgi,"4,178,247",SNP,A→C,nusG,,transcription termination factor,,,119504,T169P (ACC→CCC),,,,,,1.00,1.00,,,,,,
+NC_000913_3_hsa_pgi,"757,691",SNP,G→T,sdhB,,"succinate dehydrogenase, FeS subunit",,,119505,M1M (ATG→ATT) †,,,,,1.00,,,,,,,,
+NC_000913_3_hsa_pgi,"3,451,155",SNP,G→T,rplB,,50S ribosomal subunit protein L2,,,119506,N70K (AAC→AAA),,,,,1.00,,,,,,,,
+NC_000913_3_hsa_pgi,"3,815,810",DEL,Δ1 bp,"pyrE, rph",,orotate phosphoribosyltransferase/ribonuclease PH (defective);enzyme; Degradation of RNA; RNase PH,,,119507,intergenic (‑42/+24),,,,,1.00,,,,,,,,
+NC_000913_3_hsa_pgi,"4,233,708",SNP,C→T,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119508,intergenic (‑475/‑2226),,,,,1.00,,,,,,,,
+NC_000913_3_hsa_pgi,"1,453,830",SNP,A→G,"paaZ, paaA",,"oxepin-CoA hydrolase and 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase/ring 1,2-phenylacetyl-CoA epoxidase subunit",,,119509,intergenic (‑188/‑97),,,,,,,,,1.00,,,,
+NC_000913_3_hsa_pgi,"1,823,788",SNP,C→A,cho,,endonuclease of nucleotide excision repair,,,119510,L92M (CTG→ATG),,,,,,,,,1.00,,,,
+NC_000913_3_hsa_pgi,"1,529,175",SNP,T→C,rhsE,,"pseudogene, Rhs family",,,119511,pseudogene (1274/2037 nt),,1.00,,,,,1.00,,,,,,
+NC_000913_3_hsa_pgi,"3,440,087",DEL,Δ2 bp,rpoA,,"RNA polymerase, alpha subunit",,,119512,coding (942‑943/990 nt),,1.00,,,,,,,,,,,
+NC_000913_3_hsa_pgi,"1,164,887",SNP,G→A,nagZ,,beta N-acetyl-glucosaminidase,,,119513,G265R (GGG→AGG),,,,,,,1.00,,,,,,
+NC_000913_3_hsa_pgi,"4,400,459",SNP,C→A,hfq,,"global sRNA chaperone; HF-I, host factor for RNA phage Q beta replication",,,119514,N48K (AAC→AAA),,,,,,,1.00,,,,,,
+NC_000913_3_hsa_pgi,"526,792",SNP,A→C,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,119517,S1178R (AGC→CGC),,,,,,,,0.25,,,,0.21,
+NC_000913_3_hsa_pgi,"526,796",SNP,C→G,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,119518,A1179G (GCG→GGG),,,,,,,,0.30,,,,,
+NC_000913_3_hsa_pgi,"526,800",SNP,A→G,rhsD,,Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor,,,119519,E1180E (GAA→GAG),,,,,,,,0.27,,,,0.23,
+NC_000913_3_hsa_pgi,"2,173,361",DEL,Δ2 bp,gatC,,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,119529,pseudogene (1‑2/442 nt),,,,,,,,1.00,,,,1.00,
+NC_000913_3_hsa_pgi,"2,304,649",SNP,C→T,"eco, mqo",,"ecotin, a serine protease inhibitor/malate dehydrogenase, FAD/NAD(P)-binding domain",,,119531,intergenic (+256/+459),,,,,,,,,,,,0.21,
+NC_000913_3_hsa_pgi,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,119541,,,,,,,,,,,,,0.29,1.00
+NC_000913_3_hsa_pgi,"4,182,791",SNP,A→G,rpoB,,"RNA polymerase, beta subunit",,,119543,D516G (GAC→GGC),,,,,,,,,,,,0.54,
+NC_000913_3_hsa_pgi,"4,235,433",DEL,Δ1 bp,"lysC, yjbE",,lysine-sensitive aspartokinase 3/extracellular polysaccharide production threonine-rich protein,,,119544,intergenic (‑2200/‑501),,,,,,,,1.00,,,,1.00,
+NC_000913_3_hsa_pgi,"4,296,088",SNP,C→T,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,119545,intergenic (+266/+376),,,,,,,,0.24,,,,0.31,
+NC_000913_3_hsa_pgi,"4,296,408",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,119546,intergenic (+586/+56),,,,,,,,1.00,,,,1.00,
+NC_000913_3_hsa_pgi,"1,466,201",SNP,T→C,ydbA,,"pseudogene, autotransporter homolog; interrupted by IS2 and IS30",,,119549,pseudogene (810/2513 nt),,,,,,,,0.21,,,,,

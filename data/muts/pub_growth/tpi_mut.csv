@@ -1,0 +1,64 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,tpi A0 F0 I1 R1,tpi A13 F89 I0 R1,tpi A13 F89 I1 R1,tpi A13 F89 I2 R1,tpi A14 F89 I0 R1,tpi A14 F89 I1 R1,tpi A14 F89 I2 R1,tpi A15 F88 I0 R1,tpi A15 F88 I1 R1,tpi A15 F88 I2 R1,tpi A16 F88 I0 R1,tpi A16 F88 I1 R1,tpi A16 F88 I2 R1
+NC_000913,"3,875,522",SNP,C→G,yidX,,putative lipoprotein,,,1120384,L29V (CTG→GTG),,,,,,,,0.22,,,,,
+NC_000913,"1,196,247",SNP,A→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,832514,L375L (TTA→TTG),,0.48,,,,,,,,,,,
+NC_000913,"4,296,060",SNP,C→T,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103621,intergenic (+266/+376),,0.25,,,,,,,,,,,
+NC_000913,"1,196,280",SNP,G→C,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,830086,A386A (GCG→GCC),,0.28,,,,,,,,,,,
+NC_000913,"417,368",DEL,Δ5 bp,phoB,,response regulator in two-component regulatory system with PhoR,,,802063,coding (227‑231/690 nt),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"701,378",INS,+T,nagC,,N-acetylglucosamine-inducible nag divergent operon transcriptional repressor,,,802064,coding (217/1221 nt),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"704,008",SNP,C→A,nagE,,"N-acetyl glucosamine specific PTS enzyme IIC, IIB, and IIA components",,,802065,P22Q (CCG→CAG),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"705,596",SNP,C→T,nagE,,"N-acetyl glucosamine specific PTS enzyme IIC, IIB, and IIA components",,,802066,N551N (AAC→AAT),,,,,,,1.00,,,,,,
+NC_000913,"1,726,169",SNP,T→G,nemR,,"transcriptional repressor for the nemRA-gloA operon, quinone-, glyoxal-, and HOCl-activated",,,802067,F49L (TTT→TTG),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"702,330",DEL,Δ1 bp,nagA,,N-acetylglucosamine-6-phosphate deacetylase,,,1566868,coding (422/1149 nt),,,,,,,,0.34,,,,,
+NC_000913,"1,159,282",INS,+AGT,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,1566869,coding (1414/1434 nt),,,,,,,,1.00,,,,,
+NC_000913,"2,375,828",MOB,IS186 (+) +4 bp,menC,,O-succinylbenzoyl-CoA synthase,,,1566872,coding (132‑135/963 nt),,0.78,,1.00,,,,0.53,1.00,1.00,,,
+NC_000913,"2,976,909",SNP,A→C,galR,,galactose-inducible d-galactose regulon transcriptional repressor; autorepressor,,,1566873,E104A (GAG→GCG),,,,,,,,1.00,1.00,1.00,,,
+NC_000913,"3,909,312",DEL,Δ774 bp,"[pstA],[pstC]",,"[pstA],[pstC]",,,1566876,,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,"gatC, gatC",,"pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC/pseudogene, galactitol-specific enzyme IIC component of PTS;transport; Transport of small molecules: Carbohydrates, organic acids, alcohols; PTS system galactitol-specific enzyme IIC",,,566843,intergenic (‑1/+1),1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00,,1.00,1.00
+NC_000913,"4,184,543",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,1112480,P1100Q (CCG→CAG),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,612037,intergenic (+254/‑485),,1.00,,1.00,,,,,1.00,1.00,1.00,1.00,
+NC_000913,"153,986",MOB,IS5 (–) +4 bp,htrE,,putative outer membrane usher protein,,,1566880,coding (1438‑1441/2598 nt),,1.00,1.00,1.00,,,,,,,,,
+NC_000913,"1,196,283",SNP,A→G,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,835745,K387K (AAA→AAG),,0.29,,,,,,,,,,,
+NC_000913,"1,196,245",SNP,T→C,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,1030434,L375L (TTA→CTA),,0.45,,,,,,,,,,,
+NC_000913,"2,977,595",INS,+C,galR,,galactose-inducible d-galactose regulon transcriptional repressor; autorepressor,,,1566883,coding (997/1032 nt),,1.00,,,,,,,,,,,
+NC_000913,"4,296,380",INS,+CG,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1103622,intergenic (+586/+56),,1.00,,,1.00,,,1.00,,,1.00,,
+NC_000913,"1,726,876",SNP,C→T,nemA,,"chromate reductase, quinone reductase, FMN-linked; N-Ethylmaleimide reductase; old yellow enzyme",,,1566886,P73L (CCT→CTT),,,,,,,,,1.00,1.00,,,
+NC_000913,"1,491,904",MOB,IS186 (+) +3 bp,"ydcA, hokB",,"putative periplasmic protein/toxic polypeptide, small",,,1566887,intergenic (+54/+16),,,1.00,,,,,,,,,,
+NC_000913,"2,509,479",SNP,C→T,"glk, yfeO",,glucokinase/putative ion channel protein,,,1566888,intergenic (‑53/‑151),,,1.00,,,,,,,,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1,insA",,"insB1,insA",,,1102505,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,1102506,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"700,597",MOB,IS1 (–) +9 bp,nagC,,N-acetylglucosamine-inducible nag divergent operon transcriptional repressor,,,1566891,coding (990‑998/1221 nt),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"4,189,513",INS,+C,rpoC,,"RNA polymerase, beta prime subunit",,,1566892,coding (4164/4224 nt),,,,,,,,,,,,1.00,1.00
+NC_000913,"418,960",DEL,Δ1 bp,phoR,,sensory histidine kinase in two-component regulatory system with PhoB,,,1566893,coding (1072/1296 nt),,,,,,,,,,,1.00,,
+NC_000913,"1,157,896",INS,+A,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,1566894,coding (28/1434 nt),,,,,1.00,,,,,,1.00,,
+NC_000913,"3,922,629",MOB,IS5 (–) +4 bp,"atpI, rsmG",,"ATP synthase, membrane-bound accessory factor/16S rRNA m(7)G527 methyltransferase, SAM-dependent; glucose-inhibited cell-division protein",,,1104755,intergenic (‑189/+425),,,,,,,,0.28,,,,,
+NC_000913,"4,296,268",SNP,T→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1105334,intergenic (+474/+168),,,,,0.22,,,0.27,,,0.21,,
+NC_000913,"2,066,465",SNP,T→C,insH1,,IS5 transposase and trans-activator,,,798775,K286R (AAG→AGG),,,,,,,,,,,1.00,,
+NC_000913,"4,001,645",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,1112479,coding (220‑224/951 nt),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,296,381",INS,+GC,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,644028,intergenic (+587/+55),1.00,,1.00,1.00,,,1.00,,1.00,1.00,,1.00,1.00
+NC_000913,"4,296,382",INS,+C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1566909,intergenic (+588/+54),,,,,,1.00,,,,,,,
+NC_000913,"1,196,277",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,835744,N385N (AAC→AAT),,0.28,,,,,,,,,,,
+NC_000913,"417,391",SNP,G→C,phoB,,response regulator in two-component regulatory system with PhoR,,,801604,A84P (GCC→CCC),,,1.00,1.00,,,,,,,,,
+NC_000913,"418,428",DEL,Δ1 bp,phoR,,sensory histidine kinase in two-component regulatory system with PhoB,,,801605,coding (540/1296 nt),,0.50,,,,,,,,,,,
+NC_000913,"702,066",SNP,G→C,nagA,,N-acetylglucosamine-6-phosphate deacetylase,,,801607,P229R (CCT→CGT),,0.55,1.00,1.00,,,,,,,,,
+NC_000913,"1,158,384",SNP,G→A,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,801609,W172* (TGG→TGA),,1.00,1.00,1.00,,,,,,,,,
+NC_000913,"4,189,512",INS,+C,rpoC,,"RNA polymerase, beta prime subunit",,,1566903,coding (4163/4224 nt),,,,,,,,,,,0.63,,
+NC_000913,"1,726,507",DEL,Δ1 bp,nemR,,"transcriptional repressor for the nemRA-gloA operon, quinone-, glyoxal-, and HOCl-activated",,,801612,coding (485/600 nt),,1.00,1.00,1.00,,,,,,,,,
+NC_000913,"4,296,190",SNP,A→G,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1120334,intergenic (+396/+246),,,,,0.27,,,0.20,,,,,
+NC_000913,"4,296,191",SNP,A→C,"gltP, yjcO",,glutamate/aspartate:proton symporter/Sel1 family TPR-like repeat protein,,,1120335,intergenic (+397/+245),,,,,0.28,,,0.24,,,0.25,,
+NC_000913,"417,075",DEL,(TCATAAATCTG)2→1,"sbcD, phoB",,"exonuclease, dsDNA, ATP-dependent/response regulator in two-component regulatory system with PhoR",,,801507,intergenic (‑123/‑57),,,,,,,,0.28,1.00,1.00,,,
+NC_000913,"4,171,648",SNP,A→C,rrfB,,5S ribosomal RNA of rrnB operon,,,1193428,noncoding (12/120 nt),,1.00,,,1.00,,,1.00,1.00,,1.00,,
+NC_000913,"418,961",DEL,Δ1 bp,phoR,,sensory histidine kinase in two-component regulatory system with PhoB,,,801877,coding (1073/1296 nt),,,,,,,,,,,,1.00,1.00
+NC_000913,"704,083",SNP,C→A,nagE,,"N-acetyl glucosamine specific PTS enzyme IIC, IIB, and IIA components",,,801878,A47E (GCG→GAG),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"1,157,900",INS,+A,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,801879,coding (32/1434 nt),,,,,,1.00,1.00,,,,,1.00,1.00
+NC_000913,"1,726,390",SNP,G→T,nemR,,"transcriptional repressor for the nemRA-gloA operon, quinone-, glyoxal-, and HOCl-activated",,,801880,R123L (CGC→CTC),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"1,756,374",SNP,G→A,pykF,,pyruvate kinase I,,,801881,G226D (GGC→GAC),,,,,,,,,,,1.00,1.00,1.00
+NC_000913,"1,979,486",MOB,IS5 (+) +4 bp,"insA, uspC",,IS1 repressor TnpA/universal stress protein,,,673244,intergenic (‑271/‑264),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"2,132,787",SNP,A→C,wcaA,,putative glycosyl transferase,,,770909,I204S (ATC→AGC),1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,755,755",MOB,IS5 (+) +4 bp,pykF,,pyruvate kinase I,,,1114723,coding (58‑61/1413 nt),,,,,1.00,1.00,1.00,,,,,,
+NC_000913,"702,306",SNP,C→T,nagA,,N-acetylglucosamine-6-phosphate deacetylase,,,801515,R149H (CGT→CAT),,,,,,,,0.28,1.00,1.00,,,
+NC_000913,"1,196,220",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,568940,H366H (CAC→CAT),,0.41,,,,,,,,,,,
+NC_000913,"1,196,232",SNP,C→T,icd,,isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase,,,568941,T370T (ACC→ACT),,0.42,,,,,,,,,,,
+NC_000913,"1,159,286",INS,+GTA,ptsG,,fused glucose-specific PTS enzymes: IIB component/IIC component,,,801518,coding (1418/1434 nt),,,,,,,,,1.00,1.00,,,
+NC_000913,"1,726,004",SNP,G→A,"ydhL, nemR",,"DUF1289 family protein/transcriptional repressor for the nemRA-gloA operon, quinone-, glyoxal-, and HOCl-activated",,,801523,intergenic (‑84/‑19),,,,,,,,1.00,1.00,1.00,,,
+NC_000913,"2,977,596",INS,+C,galR,,galactose-inducible d-galactose regulon transcriptional repressor; autorepressor,,,1566889,coding (998/1032 nt),,,1.00,1.00,,,,,,,,,
+NC_000913,"4,583,862",SNP,C→T,hsdR,,endonuclease R Type I restriction enzyme,,,1566890,R967H (CGT→CAT),,,,1.00,,,,,,,,,

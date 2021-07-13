@@ -1,0 +1,39 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,MG1655_chloramphenicol A1 F22 I1 R1,MG1655_chloramphenicol A1 F22 I2 R1,MG1655_chloramphenicol A2 F22 I1 R1,MG1655_chloramphenicol A3 F22 I1 R1,MG1655_chloramphenicol A4 F22 I1 R1,MG1655_chloramphenicol A5 F22 I1 R1
+NC_000913,"883,647",SNP,G→T,"ybjG, mdfA",,undecaprenyl pyrophosphate phosphatase/multidrug efflux pump MdfA/Na(+):H(+) antiporter/K(+):H(+) antiporter,,,1608363,intergenic (‑259/‑26),,,,,1.00,
+NC_000913,"883,663",SNP,A→G,"ybjG, mdfA",,undecaprenyl pyrophosphate phosphatase/multidrug efflux pump MdfA/Na(+):H(+) antiporter/K(+):H(+) antiporter,,,1608359,intergenic (‑275/‑10),,,,,,1.00
+NC_000913,"3,560,455",INS,+G,glpR,,DNA-binding transcriptional repressor GlpR,,,1603720,pseudogene (151/758 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,634,527",SNP,C→T,rob,,DNA-binding transcriptional dual regulator Rob,,,1608365,E262K (GAG→AAG),,,,,1.00,
+NC_000913,"481,421",SNP,C→A,acrB,,multidrug efflux pump RND permease AcrB,,,1608340,A995S (GCT→TCT),1.00,1.00,,,1.00,
+NC_000913,"486,025",MOB,IS1 (+) +9 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608341,coding (265‑273/648 nt),1.00,1.00,,,,
+NC_000913,"883,553",MOB,IS30 (+) +2 bp,"ybjG, mdfA",,undecaprenyl pyrophosphate phosphatase/multidrug efflux pump MdfA/Na(+):H(+) antiporter/K(+):H(+) antiporter,,,1608342,intergenic (‑165/‑119),1.00,1.00,1.00,,1.00,
+NC_000913,"1,720,868",MOB,IS5 (+) +4 bp,"slyA, ydhI",,DNA-binding transcriptional dual regulator SlyA/DUF1656 domain-containing protein YdhI,,,1608343,intergenic (‑44/‑154),,1.00,,,,
+NC_000913,"2,071,380",SNP,A→G,isrC,,small RNA IsrC,,,1608344,noncoding (64/195 nt),1.00,1.00,,,,
+NC_000913,"482,502",SNP,C→A,acrB,,multidrug efflux pump RND permease AcrB,,,1608345,W634C (TGG→TGT),,,,1.00,,
+NC_000913,"485,977",MOB,IS5 (+) +4 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608346,coding (217‑220/648 nt),,,,1.00,,
+NC_000913,"883,616",SNP,T→G,"ybjG, mdfA",,undecaprenyl pyrophosphate phosphatase/multidrug efflux pump MdfA/Na(+):H(+) antiporter/K(+):H(+) antiporter,,,1608347,intergenic (‑228/‑57),,,,1.00,,1.00
+NC_000913,"1,619,370",DEL,Δ1 bp,marR,,DNA-binding transcriptional repressor MarR,,,1608348,coding (251/435 nt),,,,1.00,,
+NC_000913,"3,536,398",SNP,C→A,ompR,,DNA-binding transcriptional dual regulator OmpR,,,1608349,G63C (GGC→TGC),,,,1.00,,
+NC_000913,"4,168,196",SNP,C→T,rrsB,,16S ribosomal RNA,,,1608350,noncoding (1538/1542 nt),,,,1.00,,
+NC_000913,"481,404",SNP,C→A,acrB,,multidrug efflux pump RND permease AcrB,,,1608351,Q1000H (CAG→CAT),,,1.00,,,
+NC_000913,"486,025",MOB,IS1 (–) +9 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608352,coding (265‑273/648 nt),,,1.00,,,
+NC_000913,"883,661",SNP,C→T,"ybjG, mdfA",,undecaprenyl pyrophosphate phosphatase/multidrug efflux pump MdfA/Na(+):H(+) antiporter/K(+):H(+) antiporter,,,1608353,intergenic (‑273/‑12),,,1.00,,,
+NC_000913,"1,720,887",DEL,Δ17 bp,"slyA, ydhI",,DNA-binding transcriptional dual regulator SlyA/DUF1656 domain-containing protein YdhI,,,1608354,intergenic (‑63/‑122),,,1.00,,,
+NC_000913,"4,185,956",DEL,Δ36 bp,rpoC,,RNA polymerase subunit beta',,,1608355,coding (607‑642/4224 nt),,,1.00,,,
+NC_000913,"18,805",DEL,Δ991 bp,[nhaR],,[nhaR],,,1608356,IS1‑mediated,,,,,,1.00
+NC_000913,"482,533",SNP,G→A,acrB,,multidrug efflux pump RND permease AcrB,,,1608357,T624I (ACC→ATC),,,,,,1.00
+NC_000913,"486,025",MOB,IS5 (+) +4 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608358,coding (265‑268/648 nt),,,,,,1.00
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB-5,insA-5",,"insB-5,insA-5",,,1120679,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,536,300",MOB,IS1 (+) +9 bp,ompR,,DNA-binding transcriptional dual regulator OmpR,,,1608360,coding (277‑285/720 nt),,,,,,1.00
+NC_000913,"2,173,363",DEL,Δ2 bp,gatC,,galactitol-specific PTS enzyme IIC component,,,1120681,pseudogene (915‑916/1358 nt),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"485,865",MOB,IS1 (+) +8 bp,acrR,,DNA-binding transcriptional repressor AcrR,,,1608362,coding (105‑112/648 nt),,,,,1.00,
+NC_000913,"296,504",SNP,T→G,intF,,CP4-6 prophage; putative phage integrase,,,1608299,N198T (AAC→ACC),,,,1.00,,
+NC_000913,"3,452,099",SNP,T→G,rplD,,50S ribosomal subunit protein L4,,,1608364,K63T (AAA→ACA),,,,,1.00,
+NC_000913,"803,662",SNP,C→A,ybhJ,,putative hydratase YbhJ,,,1608301,L54I (CTT→ATT),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,619,399",SNP,C→T,marR,,DNA-binding transcriptional repressor MarR,,,1608302,R94C (CGC→TGC),1.00,1.00,,,,
+NC_000913,"1,905,761",SNP,G→A,mntP,,Mn(2(+)) exporter,,,1608303,G25D (GGT→GAT),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"257,908",DEL,Δ776 bp,"insB9,insA9,[crl]",,"insB9,insA9,[crl]",,,1120561,,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,390,754",SNP,G→T,rsgA,,ribosome small subunit-dependent GTPase A,,,1608306,A252A (GCC→GCA),1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"3,815,859",DEL,Δ82 bp,[rph],,[rph],,,1120692,,1.00,1.00,1.00,1.00,1.00,
+NC_000913,"3,815,828",SNP,T→G,"pyrE, rph",,orotate phosphoribosyltransferase/truncated RNase PH,,,1608361,intergenic (‑60/+35),,,,,,1.00
+NC_000913,"1,619,100",DEL,Δ20 bp,"marC, marR",,inner membrane protein MarC/DNA-binding transcriptional repressor MarR,,,1608314,intergenic (‑192/‑1),,,1.00,,,1.00
+NC_000913,"4,635,363",MOB,IS5 (–) +4 bp,"rob, creA",,DNA-binding transcriptional dual regulator Rob/PF05981 family protein CreA,,,1608366,intergenic (‑53/‑155),,,,,1.00,
