@@ -1,5 +1,6 @@
-# Requirements
+# Requirementis
 
+* When cloning this repo, use the --recurse-submodules parameter to clone the necessary submodule.  
 * Download the E. coli K-12 MG1655 version 3 genbank reference genome (https://www.ncbi.nlm.nih.gov/nuccore/556503834) and place it in ./data with the name "NC_000913_3.gb".  
 * Run the script aledb_parse_annot_assoc.sh to generate necessary intermediate files used by other analysis.  
 * Remaining notebooks process data and generate results for ALE mutation analysis.
