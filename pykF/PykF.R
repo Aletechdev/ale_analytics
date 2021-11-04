@@ -22,11 +22,11 @@ muts$clr <- muts$color
 
 mutations <- GRanges("r", IRanges(muts$AA.pos, width=1, names=muts$name))
 muts$border_color <- muts$clr
-muts$border_color[muts$border_color=="#BEBEBE"] <- "black"
+muts$border_color[muts$border_color==UNKNOWN_EFFECT] <- "#6e6e6e"
 mutations$score <- muts$mutation.count
 mutations$border <- muts$border_color
 muts$text_colors = muts$clr
-muts$text_colors[muts$text_colors=="#BEBEBE"] <- "black"
+muts$text_colors[muts$text_colors==UNKNOWN_EFFECT] <- "#6e6e6e"
 mutations$label.parameter.gp <- gpar(col=muts$text_colors)
 mutations$dashline.col <- muts$clr
 mutations$color <- muts$study.color
@@ -105,7 +105,7 @@ legend <- list(labels=
                  "white",
                  "white",
                  "white",
-                 "black",
+                 "#6e6e6e",
                  CODING_SEQ_DISRUPT_COLOR,
                  FUNC_DISRUPT_COLOR,
                  STRUCT_DISRUPT_COLOR,

@@ -1,7 +1,7 @@
 AA position,mutation count,name,color,study,study color
 20,1,MOB AA 20,#CF000F,TOL_isobutyric_acid,#9467BD
 20,1,MOB AA 20,#CF000F,tpiAKO,#F7B6D2
-25,1,SNP AA 25,black,TOL_putrescine,#C5B0D5
+25,1,SNP AA 25,#ABABAB,TOL_putrescine,#C5B0D5
 37,1,SNP AA 37,#FFA500,tpiHSA,#2AB0C1
 69,1,SNP AA 69,#8C564B,tpiHSA,#2AB0C1
 129,1,SNP AA 129,#8C564B,TOL_isobutyric_acid,#9467BD
@@ -23,6 +23,6 @@ AA position,mutation count,name,color,study,study color
 367,2,SNP AA 367,#CF000F,pyocyanin,#E377C2
 378,1,DEL AA 378,#CF000F,tpiPAE,#B2B35A
 399,1,INS AA 399,#CF000F,TOL_isobutyric_acid,#9467BD
-408,1,SNP AA 408,black,tpiHSA,#2AB0C1
+408,1,SNP AA 408,#ABABAB,tpiHSA,#2AB0C1
 454,1,SNP AA 454,#FFA500,tpiHSA,#2AB0C1
 462,1,MOB AA 462,#CF000F,TOL_isobutyric_acid,#9467BD
