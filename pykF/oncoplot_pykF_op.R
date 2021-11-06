@@ -132,7 +132,7 @@ ha = HeatmapAnnotation(
     "strain",
     "supplement",
     "sulfur source",
-    "nitrogen source source",
+    "nitrogen source",
     "phosphorous source",
     "calcium source",
     "study"),
